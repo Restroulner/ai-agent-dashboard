@@ -318,3 +318,4 @@ This project is licensed under the MIT License.
 <!-- Commit 2: feat: Add support for new model architecture on 2024-11-04 12:04:24 -->
 <!-- Commit 3: feat: Add new feature for data processing on 2024-11-06 16:14:33 -->
 <!-- Commit 4: refactor: Decouple modules on 2024-11-06 16:14:25 -->
+<!-- Commit 6: docs: Add API documentation on 2024-11-11 15:19:41 -->
