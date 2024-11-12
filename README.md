@@ -1312,3 +1312,4 @@ This project is licensed under the MIT License.
 <!-- Commit 4: test: Improve test coverage on 2024-11-05 09:29:17 -->
 <!-- Commit 6: test: Fix broken tests on 2024-11-08 13:01:44 -->
 <!-- Commit 7: test: Improve test coverage on 2024-11-11 09:56:16 -->
+<!-- Commit 8: fix: Correct off-by-one error in indexing on 2024-11-12 09:01:26 -->
