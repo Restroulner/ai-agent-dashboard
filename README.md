@@ -324,3 +324,4 @@ This project is licensed under the MIT License.
 <!-- Commit 9: chore: Automate release process on 2024-11-14 14:51:31 -->
 <!-- Commit 11: refactor: Improve code readability and structure on 2024-11-14 13:04:08 -->
 <!-- Commit 12: perf: Optimize data loading performance on 2024-11-15 17:59:23 -->
+<!-- Commit 13: fix: Prevent potential race condition on 2024-11-15 11:11:50 -->
