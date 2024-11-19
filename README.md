@@ -328,3 +328,4 @@ This project is licensed under the MIT License.
 <!-- Commit 14: fix: Handle edge cases in input validation on 2024-11-18 13:28:09 -->
 <!-- Commit 16: perf: Reduce memory footprint on 2024-11-18 10:24:44 -->
 <!-- Commit 17: refactor: Extract common logic into helper function on 2024-11-19 14:19:22 -->
+<!-- Commit 18: refactor: Improve code readability and structure on 2024-11-19 15:33:46 -->
