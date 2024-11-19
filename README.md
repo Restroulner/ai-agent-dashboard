@@ -327,3 +327,4 @@ This project is licensed under the MIT License.
 <!-- Commit 13: fix: Prevent potential race condition on 2024-11-15 11:11:50 -->
 <!-- Commit 14: fix: Handle edge cases in input validation on 2024-11-18 13:28:09 -->
 <!-- Commit 16: perf: Reduce memory footprint on 2024-11-18 10:24:44 -->
+<!-- Commit 17: refactor: Extract common logic into helper function on 2024-11-19 14:19:22 -->
