@@ -666,3 +666,4 @@ This project is licensed under the MIT License.
 <!-- Commit 7: test: Add integration tests on 2024-11-15 10:58:14 -->
 <!-- Commit 8: feat: Add support for new model architecture on 2024-11-18 15:52:34 -->
 <!-- Commit 9: chore: Automate release process on 2024-11-20 16:09:01 -->
+<!-- Commit 11: docs: Clarify installation instructions on 2024-11-21 13:03:19 -->
