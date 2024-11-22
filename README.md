@@ -1318,3 +1318,4 @@ This project is licensed under the MIT License.
 <!-- Commit 12: feat: Integrate new data source on 2024-11-19 17:58:00 -->
 <!-- Commit 13: fix: Handle edge cases in input validation on 2024-11-19 13:45:36 -->
 <!-- Commit 14: refactor: Decouple modules on 2024-11-20 12:39:12 -->
+<!-- Commit 16: docs: Clarify installation instructions on 2024-11-22 10:59:55 -->
