@@ -963,3 +963,4 @@ This project is licensed under the MIT License.
 <!-- Commit 18: docs: Update README with usage examples on 2024-11-27 14:22:39 -->
 <!-- Commit 19: fix: Resolve bug in model training loop on 2024-11-27 14:17:54 -->
 <!-- Commit 21: chore: Automate release process on 2024-11-27 16:46:50 -->
+<!-- Commit 22: style: Format code according to PEP8 on 2024-11-27 14:39:32 -->
