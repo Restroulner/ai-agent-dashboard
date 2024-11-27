@@ -960,3 +960,4 @@ This project is licensed under the MIT License.
 <!-- Commit 14: refactor: Extract common logic into helper function on 2024-11-21 17:55:16 -->
 <!-- Commit 16: feat: Add support for new model architecture on 2024-11-25 16:01:51 -->
 <!-- Commit 17: refactor: Extract common logic into helper function on 2024-11-26 13:23:41 -->
+<!-- Commit 18: docs: Update README with usage examples on 2024-11-27 14:22:39 -->
