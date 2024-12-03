@@ -1326,3 +1326,4 @@ This project is licensed under the MIT License.
 <!-- Commit 22: refactor: Improve code readability and structure on 2024-11-28 11:17:40 -->
 <!-- Commit 23: style: Adhere to linter rules on 2024-11-29 15:18:06 -->
 <!-- Commit 24: test: Add integration tests on 2024-11-29 09:16:31 -->
+<!-- Commit 26: fix: Resolve bug in model training loop on 2024-12-03 16:14:27 -->
