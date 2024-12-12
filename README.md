@@ -1333,3 +1333,4 @@ This project is licensed under the MIT License.
 <!-- Commit 31: perf: Parallelize computation on 2024-12-10 15:34:59 -->
 <!-- Commit 32: chore: Upgrade Python version on 2024-12-10 12:15:02 -->
 <!-- Commit 33: refactor: Decouple modules on 2024-12-12 14:43:46 -->
+<!-- Commit 34: refactor: Simplify conditional statements on 2024-12-12 13:57:48 -->
