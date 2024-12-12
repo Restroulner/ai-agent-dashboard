@@ -679,3 +679,4 @@ This project is licensed under the MIT License.
 <!-- Commit 23: test: Add integration tests on 2024-12-10 13:42:06 -->
 <!-- Commit 24: refactor: Decouple modules on 2024-12-11 14:48:50 -->
 <!-- Commit 26: style: Format code according to PEP8 on 2024-12-12 13:37:37 -->
+<!-- Commit 27: docs: Add API documentation on 2024-12-12 10:27:24 -->
