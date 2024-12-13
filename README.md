@@ -681,3 +681,4 @@ This project is licensed under the MIT License.
 <!-- Commit 26: style: Format code according to PEP8 on 2024-12-12 13:37:37 -->
 <!-- Commit 27: docs: Add API documentation on 2024-12-12 10:27:24 -->
 <!-- Commit 28: docs: Clarify installation instructions on 2024-12-12 13:33:35 -->
+<!-- Commit 29: test: Improve test coverage on 2024-12-13 15:20:54 -->
