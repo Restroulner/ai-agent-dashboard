@@ -45,3 +45,4 @@ This project is licensed under the MIT License.
 <!-- Commit 21: fix: Correct off-by-one error in indexing on 2024-12-10 11:59:04 -->
 <!-- Commit 22: fix: Correct off-by-one error in indexing on 2024-12-10 17:39:04 -->
 <!-- Commit 23: test: Fix broken tests on 2024-12-12 11:25:59 -->
+<!-- Commit 24: test: Improve test coverage on 2024-12-16 14:33:31 -->
