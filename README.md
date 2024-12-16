@@ -977,3 +977,4 @@ This project is licensed under the MIT License.
 <!-- Commit 36: docs: Clarify installation instructions on 2024-12-10 15:52:21 -->
 <!-- Commit 37: refactor: Simplify conditional statements on 2024-12-11 16:13:39 -->
 <!-- Commit 38: perf: Reduce memory footprint on 2024-12-12 10:36:12 -->
+<!-- Commit 39: fix: Correct off-by-one error in indexing on 2024-12-16 11:59:00 -->
