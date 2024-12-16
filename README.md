@@ -1334,3 +1334,4 @@ This project is licensed under the MIT License.
 <!-- Commit 32: chore: Upgrade Python version on 2024-12-10 12:15:02 -->
 <!-- Commit 33: refactor: Decouple modules on 2024-12-12 14:43:46 -->
 <!-- Commit 34: refactor: Simplify conditional statements on 2024-12-12 13:57:48 -->
+<!-- Commit 36: fix: Resolve bug in model training loop on 2024-12-16 10:31:25 -->
