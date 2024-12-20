@@ -47,3 +47,4 @@ This project is licensed under the MIT License.
 <!-- Commit 23: test: Fix broken tests on 2024-12-12 11:25:59 -->
 <!-- Commit 24: test: Improve test coverage on 2024-12-16 14:33:31 -->
 <!-- Commit 26: feat: Add support for new model architecture on 2024-12-20 13:13:16 -->
+<!-- Commit 27: perf: Parallelize computation on 2024-12-20 09:58:30 -->
