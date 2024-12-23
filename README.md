@@ -49,3 +49,4 @@ This project is licensed under the MIT License.
 <!-- Commit 26: feat: Add support for new model architecture on 2024-12-20 13:13:16 -->
 <!-- Commit 27: perf: Parallelize computation on 2024-12-20 09:58:30 -->
 <!-- Commit 28: fix: Correct off-by-one error in indexing on 2024-12-23 09:57:05 -->
+<!-- Commit 29: chore: Automate release process on 2024-12-23 15:36:12 -->
