@@ -48,3 +48,4 @@ This project is licensed under the MIT License.
 <!-- Commit 24: test: Improve test coverage on 2024-12-16 14:33:31 -->
 <!-- Commit 26: feat: Add support for new model architecture on 2024-12-20 13:13:16 -->
 <!-- Commit 27: perf: Parallelize computation on 2024-12-20 09:58:30 -->
+<!-- Commit 28: fix: Correct off-by-one error in indexing on 2024-12-23 09:57:05 -->
