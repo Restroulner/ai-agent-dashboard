@@ -985,3 +985,4 @@ This project is licensed under the MIT License.
 <!-- Commit 46: chore: Update dependencies on 2024-12-23 13:26:43 -->
 <!-- Commit 47: fix: Correct off-by-one error in indexing on 2024-12-24 12:52:56 -->
 <!-- Commit 48: feat: Implement new evaluation metric on 2024-12-24 11:17:53 -->
+<!-- Commit 49: docs: Generate Sphinx documentation on 2024-12-24 13:36:57 -->
