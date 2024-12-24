@@ -684,3 +684,4 @@ This project is licensed under the MIT License.
 <!-- Commit 29: test: Improve test coverage on 2024-12-13 15:20:54 -->
 <!-- Commit 31: chore: Configure CI/CD pipeline on 2024-12-19 09:18:56 -->
 <!-- Commit 32: fix: Correct off-by-one error in indexing on 2024-12-19 12:25:30 -->
+<!-- Commit 33: refactor: Extract common logic into helper function on 2024-12-24 14:33:24 -->
