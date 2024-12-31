@@ -54,3 +54,4 @@ This project is licensed under the MIT License.
 <!-- Commit 32: style: Format code according to PEP8 on 2024-12-26 15:15:13 -->
 <!-- Commit 33: fix: Handle edge cases in input validation on 2024-12-27 10:46:35 -->
 <!-- Commit 34: refactor: Improve code readability and structure on 2024-12-27 09:26:36 -->
+<!-- Commit 36: docs: Generate Sphinx documentation on 2024-12-31 13:53:51 -->
