@@ -359,3 +359,4 @@ This project is licensed under the MIT License.
 <!-- Commit 53: style: Adhere to linter rules on 2024-12-24 15:32:06 -->
 <!-- Commit 54: feat: Integrate new data source on 2024-12-26 17:53:00 -->
 <!-- Commit 56: perf: Reduce memory footprint on 2024-12-31 15:15:30 -->
+<!-- Commit 57: docs: Add API documentation on 2024-12-31 14:24:58 -->
