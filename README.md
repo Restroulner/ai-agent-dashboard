@@ -987,3 +987,4 @@ This project is licensed under the MIT License.
 <!-- Commit 48: feat: Implement new evaluation metric on 2024-12-24 11:17:53 -->
 <!-- Commit 49: docs: Generate Sphinx documentation on 2024-12-24 13:36:57 -->
 <!-- Commit 51: test: Fix broken tests on 2024-12-26 10:44:46 -->
+<!-- Commit 52: fix: Handle edge cases in input validation on 2025-01-02 17:50:15 -->
