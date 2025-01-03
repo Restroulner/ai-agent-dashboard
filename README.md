@@ -56,3 +56,4 @@ This project is licensed under the MIT License.
 <!-- Commit 34: refactor: Improve code readability and structure on 2024-12-27 09:26:36 -->
 <!-- Commit 36: docs: Generate Sphinx documentation on 2024-12-31 13:53:51 -->
 <!-- Commit 37: fix: Handle edge cases in input validation on 2025-01-03 11:41:55 -->
+<!-- Commit 38: fix: Correct off-by-one error in indexing on 2025-01-03 11:25:30 -->
