@@ -365,3 +365,4 @@ This project is licensed under the MIT License.
 <!-- Commit 61: refactor: Decouple modules on 2025-01-06 10:31:29 -->
 <!-- Commit 62: chore: Upgrade Python version on 2025-01-07 11:06:02 -->
 <!-- Commit 63: chore: Configure CI/CD pipeline on 2025-01-08 09:46:35 -->
+<!-- Commit 64: docs: Update README with usage examples on 2025-01-08 13:06:35 -->
