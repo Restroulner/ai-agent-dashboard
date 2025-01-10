@@ -996,3 +996,4 @@ This project is licensed under the MIT License.
 <!-- Commit 59: refactor: Decouple modules on 2025-01-06 12:58:59 -->
 <!-- Commit 61: feat: Implement new evaluation metric on 2025-01-09 13:11:11 -->
 <!-- Commit 62: test: Fix broken tests on 2025-01-09 11:47:36 -->
+<!-- Commit 63: docs: Generate Sphinx documentation on 2025-01-10 09:02:51 -->
