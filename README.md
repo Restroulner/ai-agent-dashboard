@@ -60,3 +60,4 @@ This project is licensed under the MIT License.
 <!-- Commit 39: refactor: Extract common logic into helper function on 2025-01-06 10:03:54 -->
 <!-- Commit 41: style: Clean up whitespace on 2025-01-10 11:57:58 -->
 <!-- Commit 42: feat: Integrate new data source on 2025-01-10 16:27:25 -->
+<!-- Commit 43: refactor: Improve code readability and structure on 2025-01-10 17:34:18 -->
