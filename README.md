@@ -701,3 +701,4 @@ This project is licensed under the MIT License.
 <!-- Commit 51: docs: Update README with usage examples on 2025-01-13 11:19:23 -->
 <!-- Commit 52: docs: Generate Sphinx documentation on 2025-01-15 09:52:53 -->
 <!-- Commit 53: docs: Clarify installation instructions on 2025-01-16 14:47:34 -->
+<!-- Commit 54: style: Clean up whitespace on 2025-01-16 10:15:20 -->
