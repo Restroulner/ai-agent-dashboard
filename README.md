@@ -374,3 +374,4 @@ This project is licensed under the MIT License.
 <!-- Commit 72: feat: Add support for new model architecture on 2025-01-13 13:44:06 -->
 <!-- Commit 73: style: Format code according to PEP8 on 2025-01-14 17:51:01 -->
 <!-- Commit 74: perf: Optimize data loading performance on 2025-01-15 14:49:16 -->
+<!-- Commit 76: docs: Update README with usage examples on 2025-01-17 15:33:22 -->
