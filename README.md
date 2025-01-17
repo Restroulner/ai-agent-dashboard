@@ -1002,3 +1002,4 @@ This project is licensed under the MIT License.
 <!-- Commit 67: refactor: Extract common logic into helper function on 2025-01-13 13:11:48 -->
 <!-- Commit 68: docs: Clarify installation instructions on 2025-01-17 11:03:04 -->
 <!-- Commit 69: perf: Parallelize computation on 2025-01-17 09:30:23 -->
+<!-- Commit 71: docs: Add API documentation on 2025-01-17 15:57:58 -->
