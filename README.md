@@ -1006,3 +1006,4 @@ This project is licensed under the MIT License.
 <!-- Commit 72: chore: Configure CI/CD pipeline on 2025-01-20 14:48:28 -->
 <!-- Commit 73: chore: Configure CI/CD pipeline on 2025-01-20 13:25:24 -->
 <!-- Commit 74: style: Format code according to PEP8 on 2025-01-22 15:25:04 -->
+<!-- Commit 76: refactor: Improve code readability and structure on 2025-01-23 17:44:22 -->
