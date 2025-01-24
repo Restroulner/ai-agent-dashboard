@@ -377,3 +377,4 @@ This project is licensed under the MIT License.
 <!-- Commit 76: docs: Update README with usage examples on 2025-01-17 15:33:22 -->
 <!-- Commit 77: fix: Prevent potential race condition on 2025-01-21 16:22:41 -->
 <!-- Commit 78: test: Add unit tests for new module on 2025-01-23 10:43:44 -->
+<!-- Commit 79: docs: Clarify installation instructions on 2025-01-24 13:55:24 -->
