@@ -386,3 +386,4 @@ This project is licensed under the MIT License.
 <!-- Commit 87: perf: Parallelize computation on 2025-01-31 13:58:07 -->
 <!-- Commit 88: feat: Implement new evaluation metric on 2025-02-03 11:18:05 -->
 <!-- Commit 89: refactor: Decouple modules on 2025-02-03 16:27:09 -->
+<!-- Commit 91: feat: Add support for new model architecture on 2025-02-05 17:50:39 -->
