@@ -387,3 +387,4 @@ This project is licensed under the MIT License.
 <!-- Commit 88: feat: Implement new evaluation metric on 2025-02-03 11:18:05 -->
 <!-- Commit 89: refactor: Decouple modules on 2025-02-03 16:27:09 -->
 <!-- Commit 91: feat: Add support for new model architecture on 2025-02-05 17:50:39 -->
+<!-- Commit 92: test: Add integration tests on 2025-02-06 17:42:58 -->
