@@ -721,3 +721,4 @@ This project is licensed under the MIT License.
 <!-- Commit 76: test: Add unit tests for new module on 2025-02-14 15:19:14 -->
 <!-- Commit 77: style: Format code according to PEP8 on 2025-02-14 09:00:49 -->
 <!-- Commit 78: refactor: Improve code readability and structure on 2025-02-18 11:52:15 -->
+<!-- Commit 79: fix: Correct off-by-one error in indexing on 2025-02-18 10:59:35 -->
