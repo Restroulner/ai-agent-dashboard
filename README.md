@@ -1380,3 +1380,4 @@ This project is licensed under the MIT License.
 <!-- Commit 89: docs: Add API documentation on 2025-02-14 09:52:39 -->
 <!-- Commit 91: style: Clean up whitespace on 2025-02-14 16:47:16 -->
 <!-- Commit 92: fix: Correct off-by-one error in indexing on 2025-02-19 12:45:33 -->
+<!-- Commit 93: fix: Resolve bug in model training loop on 2025-02-20 12:33:09 -->
