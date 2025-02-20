@@ -1023,3 +1023,4 @@ This project is licensed under the MIT License.
 <!-- Commit 93: docs: Clarify installation instructions on 2025-02-19 15:19:12 -->
 <!-- Commit 94: test: Add unit tests for new module on 2025-02-19 16:10:40 -->
 <!-- Commit 96: refactor: Simplify conditional statements on 2025-02-19 17:14:36 -->
+<!-- Commit 97: refactor: Improve code readability and structure on 2025-02-20 09:50:19 -->
