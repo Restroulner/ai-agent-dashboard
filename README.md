@@ -398,3 +398,4 @@ This project is licensed under the MIT License.
 <!-- Commit 102: feat: Integrate new data source on 2025-02-13 12:52:17 -->
 <!-- Commit 103: fix: Correct off-by-one error in indexing on 2025-02-14 13:57:08 -->
 <!-- Commit 104: docs: Clarify installation instructions on 2025-02-17 12:08:33 -->
+<!-- Commit 106: refactor: Extract common logic into helper function on 2025-02-21 11:32:14 -->
