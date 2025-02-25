@@ -1029,3 +1029,4 @@ This project is licensed under the MIT License.
 <!-- Commit 101: perf: Parallelize computation on 2025-02-24 17:34:37 -->
 <!-- Commit 102: test: Add integration tests on 2025-02-24 15:50:45 -->
 <!-- Commit 103: docs: Generate Sphinx documentation on 2025-02-24 10:56:16 -->
+<!-- Commit 104: fix: Correct off-by-one error in indexing on 2025-02-25 17:27:37 -->
