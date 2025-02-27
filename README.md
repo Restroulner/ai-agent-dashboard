@@ -402,3 +402,4 @@ This project is licensed under the MIT License.
 <!-- Commit 107: chore: Update dependencies on 2025-02-21 11:19:28 -->
 <!-- Commit 108: style: Clean up whitespace on 2025-02-26 14:21:01 -->
 <!-- Commit 109: chore: Upgrade Python version on 2025-02-26 11:15:22 -->
+<!-- Commit 111: docs: Update README with usage examples on 2025-02-27 09:01:27 -->
