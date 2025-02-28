@@ -405,3 +405,4 @@ This project is licensed under the MIT License.
 <!-- Commit 111: docs: Update README with usage examples on 2025-02-27 09:01:27 -->
 <!-- Commit 112: style: Adhere to linter rules on 2025-02-27 15:49:56 -->
 <!-- Commit 113: test: Add integration tests on 2025-02-28 16:48:11 -->
+<!-- Commit 114: fix: Handle edge cases in input validation on 2025-02-28 10:12:34 -->
