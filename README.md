@@ -410,3 +410,4 @@ This project is licensed under the MIT License.
 <!-- Commit 117: docs: Add API documentation on 2025-03-05 09:11:10 -->
 <!-- Commit 118: fix: Handle edge cases in input validation on 2025-03-07 10:31:10 -->
 <!-- Commit 119: chore: Upgrade Python version on 2025-03-07 15:59:13 -->
+<!-- Commit 121: test: Improve test coverage on 2025-03-11 09:47:58 -->
