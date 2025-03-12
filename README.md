@@ -1040,3 +1040,4 @@ This project is licensed under the MIT License.
 <!-- Commit 114: style: Clean up whitespace on 2025-03-07 12:10:33 -->
 <!-- Commit 116: perf: Optimize data loading performance on 2025-03-11 09:19:13 -->
 <!-- Commit 117: test: Fix broken tests on 2025-03-11 09:33:28 -->
+<!-- Commit 118: docs: Clarify installation instructions on 2025-03-12 11:19:09 -->
