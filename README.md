@@ -732,3 +732,4 @@ This project is licensed under the MIT License.
 <!-- Commit 89: chore: Upgrade Python version on 2025-03-10 10:23:09 -->
 <!-- Commit 91: test: Add integration tests on 2025-03-12 15:24:36 -->
 <!-- Commit 92: docs: Add API documentation on 2025-03-17 17:50:10 -->
+<!-- Commit 93: refactor: Simplify conditional statements on 2025-03-19 15:09:51 -->
