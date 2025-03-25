@@ -91,3 +91,4 @@ This project is licensed under the MIT License.
 <!-- Commit 78: perf: Parallelize computation on 2025-03-13 15:05:06 -->
 <!-- Commit 79: fix: Resolve bug in model training loop on 2025-03-18 15:24:09 -->
 <!-- Commit 81: fix: Correct off-by-one error in indexing on 2025-03-20 11:29:14 -->
+<!-- Commit 82: docs: Clarify installation instructions on 2025-03-25 14:30:57 -->
