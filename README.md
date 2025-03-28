@@ -735,3 +735,4 @@ This project is licensed under the MIT License.
 <!-- Commit 93: refactor: Simplify conditional statements on 2025-03-19 15:09:51 -->
 <!-- Commit 94: style: Clean up whitespace on 2025-03-19 09:44:00 -->
 <!-- Commit 96: style: Clean up whitespace on 2025-03-27 17:57:09 -->
+<!-- Commit 97: docs: Generate Sphinx documentation on 2025-03-28 12:13:17 -->
