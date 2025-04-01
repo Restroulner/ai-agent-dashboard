@@ -1405,3 +1405,4 @@ This project is licensed under the MIT License.
 <!-- Commit 121: docs: Update README with usage examples on 2025-04-01 14:06:13 -->
 <!-- Commit 122: chore: Update dependencies on 2025-04-01 13:17:31 -->
 <!-- Commit 123: refactor: Improve code readability and structure on 2025-04-01 15:18:21 -->
+<!-- Commit 124: fix: Handle edge cases in input validation on 2025-04-01 16:56:19 -->
