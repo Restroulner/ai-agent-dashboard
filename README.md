@@ -430,3 +430,4 @@ This project is licensed under the MIT License.
 <!-- Commit 142: docs: Add API documentation on 2025-04-01 13:46:55 -->
 <!-- Commit 143: docs: Generate Sphinx documentation on 2025-04-01 16:16:01 -->
 <!-- Commit 144: docs: Clarify installation instructions on 2025-04-01 17:54:28 -->
+<!-- Commit 146: fix: Handle edge cases in input validation on 2025-04-04 13:02:53 -->
