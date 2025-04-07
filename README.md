@@ -100,3 +100,4 @@ This project is licensed under the MIT License.
 <!-- Commit 89: refactor: Improve code readability and structure on 2025-03-28 12:32:44 -->
 <!-- Commit 91: docs: Clarify installation instructions on 2025-04-04 17:30:21 -->
 <!-- Commit 92: test: Add integration tests on 2025-04-04 12:27:18 -->
+<!-- Commit 93: fix: Resolve bug in model training loop on 2025-04-07 11:12:49 -->
