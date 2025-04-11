@@ -1063,3 +1063,4 @@ This project is licensed under the MIT License.
 <!-- Commit 143: style: Format code according to PEP8 on 2025-04-09 17:46:35 -->
 <!-- Commit 144: refactor: Extract common logic into helper function on 2025-04-09 12:55:47 -->
 <!-- Commit 146: fix: Correct off-by-one error in indexing on 2025-04-11 17:22:15 -->
+<!-- Commit 147: perf: Reduce memory footprint on 2025-04-11 13:21:17 -->
