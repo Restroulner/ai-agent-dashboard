@@ -103,3 +103,4 @@ This project is licensed under the MIT License.
 <!-- Commit 93: fix: Resolve bug in model training loop on 2025-04-07 11:12:49 -->
 <!-- Commit 94: style: Adhere to linter rules on 2025-04-09 11:23:17 -->
 <!-- Commit 96: refactor: Improve code readability and structure on 2025-04-11 11:25:18 -->
+<!-- Commit 97: refactor: Simplify conditional statements on 2025-04-14 15:12:53 -->
