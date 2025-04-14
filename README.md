@@ -1067,3 +1067,4 @@ This project is licensed under the MIT License.
 <!-- Commit 148: docs: Add API documentation on 2025-04-11 11:17:51 -->
 <!-- Commit 149: docs: Clarify installation instructions on 2025-04-11 10:18:46 -->
 <!-- Commit 151: style: Clean up whitespace on 2025-04-14 15:36:17 -->
+<!-- Commit 152: feat: Add support for new model architecture on 2025-04-14 16:50:45 -->
