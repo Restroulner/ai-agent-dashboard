@@ -442,3 +442,4 @@ This project is licensed under the MIT License.
 <!-- Commit 157: feat: Implement new evaluation metric on 2025-04-15 10:21:03 -->
 <!-- Commit 158: fix: Handle edge cases in input validation on 2025-04-16 11:26:30 -->
 <!-- Commit 159: fix: Resolve bug in model training loop on 2025-04-16 10:49:44 -->
+<!-- Commit 161: refactor: Extract common logic into helper function on 2025-04-16 17:19:57 -->
