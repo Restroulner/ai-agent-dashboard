@@ -106,3 +106,4 @@ This project is licensed under the MIT License.
 <!-- Commit 97: refactor: Simplify conditional statements on 2025-04-14 15:12:53 -->
 <!-- Commit 98: refactor: Decouple modules on 2025-04-14 10:48:03 -->
 <!-- Commit 99: feat: Add support for new model architecture on 2025-04-15 13:19:11 -->
+<!-- Commit 101: docs: Clarify installation instructions on 2025-04-16 15:21:24 -->
