@@ -110,3 +110,4 @@ This project is licensed under the MIT License.
 <!-- Commit 102: refactor: Simplify conditional statements on 2025-04-16 15:31:38 -->
 <!-- Commit 103: test: Fix broken tests on 2025-04-16 10:35:33 -->
 <!-- Commit 104: style: Adhere to linter rules on 2025-04-17 17:30:37 -->
+<!-- Commit 106: refactor: Decouple modules on 2025-04-21 14:10:46 -->
