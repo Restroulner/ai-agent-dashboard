@@ -114,3 +114,4 @@ This project is licensed under the MIT License.
 <!-- Commit 107: chore: Automate release process on 2025-04-21 15:37:11 -->
 <!-- Commit 108: docs: Clarify installation instructions on 2025-04-23 16:04:23 -->
 <!-- Commit 109: refactor: Extract common logic into helper function on 2025-04-25 15:30:22 -->
+<!-- Commit 111: fix: Correct off-by-one error in indexing on 2025-04-28 14:40:22 -->
