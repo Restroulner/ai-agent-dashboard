@@ -453,3 +453,4 @@ This project is licensed under the MIT License.
 <!-- Commit 171: refactor: Simplify conditional statements on 2025-04-29 15:09:50 -->
 <!-- Commit 172: test: Fix broken tests on 2025-04-29 15:43:16 -->
 <!-- Commit 173: chore: Configure CI/CD pipeline on 2025-05-01 12:37:22 -->
+<!-- Commit 174: refactor: Extract common logic into helper function on 2025-05-02 15:55:44 -->
