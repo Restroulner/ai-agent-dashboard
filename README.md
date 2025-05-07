@@ -1425,3 +1425,4 @@ This project is licensed under the MIT License.
 <!-- Commit 146: docs: Update README with usage examples on 2025-05-05 15:52:21 -->
 <!-- Commit 147: refactor: Decouple modules on 2025-05-06 11:43:38 -->
 <!-- Commit 148: feat: Integrate new data source on 2025-05-06 12:47:34 -->
+<!-- Commit 149: refactor: Simplify conditional statements on 2025-05-07 14:01:21 -->
