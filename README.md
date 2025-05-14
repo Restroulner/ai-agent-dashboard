@@ -1089,3 +1089,4 @@ This project is licensed under the MIT License.
 <!-- Commit 176: test: Add integration tests on 2025-05-12 15:24:02 -->
 <!-- Commit 177: refactor: Simplify conditional statements on 2025-05-13 16:15:14 -->
 <!-- Commit 178: docs: Update README with usage examples on 2025-05-13 10:52:35 -->
+<!-- Commit 179: refactor: Extract common logic into helper function on 2025-05-14 15:48:06 -->
