@@ -120,3 +120,4 @@ This project is licensed under the MIT License.
 <!-- Commit 114: docs: Clarify installation instructions on 2025-04-30 11:39:39 -->
 <!-- Commit 116: refactor: Decouple modules on 2025-05-05 13:12:08 -->
 <!-- Commit 117: fix: Handle edge cases in input validation on 2025-05-13 11:18:17 -->
+<!-- Commit 118: test: Improve test coverage on 2025-05-14 17:59:27 -->
