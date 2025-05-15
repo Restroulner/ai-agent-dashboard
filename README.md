@@ -1429,3 +1429,4 @@ This project is licensed under the MIT License.
 <!-- Commit 151: docs: Generate Sphinx documentation on 2025-05-09 12:12:16 -->
 <!-- Commit 152: feat: Add support for new model architecture on 2025-05-12 13:50:34 -->
 <!-- Commit 153: style: Adhere to linter rules on 2025-05-14 16:58:03 -->
+<!-- Commit 154: refactor: Decouple modules on 2025-05-15 11:36:15 -->
