@@ -1091,3 +1091,4 @@ This project is licensed under the MIT License.
 <!-- Commit 178: docs: Update README with usage examples on 2025-05-13 10:52:35 -->
 <!-- Commit 179: refactor: Extract common logic into helper function on 2025-05-14 15:48:06 -->
 <!-- Commit 181: feat: Implement new evaluation metric on 2025-05-16 17:47:02 -->
+<!-- Commit 182: chore: Configure CI/CD pipeline on 2025-05-16 15:37:27 -->
