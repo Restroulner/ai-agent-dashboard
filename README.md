@@ -122,3 +122,4 @@ This project is licensed under the MIT License.
 <!-- Commit 117: fix: Handle edge cases in input validation on 2025-05-13 11:18:17 -->
 <!-- Commit 118: test: Improve test coverage on 2025-05-14 17:59:27 -->
 <!-- Commit 119: perf: Reduce memory footprint on 2025-05-14 09:28:18 -->
+<!-- Commit 121: fix: Resolve bug in model training loop on 2025-05-19 13:45:33 -->
