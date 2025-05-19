@@ -765,3 +765,4 @@ This project is licensed under the MIT License.
 <!-- Commit 131: fix: Correct off-by-one error in indexing on 2025-05-13 16:48:37 -->
 <!-- Commit 132: style: Adhere to linter rules on 2025-05-16 11:21:03 -->
 <!-- Commit 133: test: Fix broken tests on 2025-05-19 15:46:55 -->
+<!-- Commit 134: docs: Generate Sphinx documentation on 2025-05-19 17:03:05 -->
