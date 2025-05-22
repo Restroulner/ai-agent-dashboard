@@ -125,3 +125,4 @@ This project is licensed under the MIT License.
 <!-- Commit 121: fix: Resolve bug in model training loop on 2025-05-19 13:45:33 -->
 <!-- Commit 122: refactor: Improve code readability and structure on 2025-05-22 09:59:42 -->
 <!-- Commit 123: refactor: Decouple modules on 2025-05-22 10:21:10 -->
+<!-- Commit 124: chore: Upgrade Python version on 2025-05-22 14:04:47 -->
