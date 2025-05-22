@@ -123,3 +123,4 @@ This project is licensed under the MIT License.
 <!-- Commit 118: test: Improve test coverage on 2025-05-14 17:59:27 -->
 <!-- Commit 119: perf: Reduce memory footprint on 2025-05-14 09:28:18 -->
 <!-- Commit 121: fix: Resolve bug in model training loop on 2025-05-19 13:45:33 -->
+<!-- Commit 122: refactor: Improve code readability and structure on 2025-05-22 09:59:42 -->
