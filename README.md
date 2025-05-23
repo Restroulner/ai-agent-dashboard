@@ -126,3 +126,4 @@ This project is licensed under the MIT License.
 <!-- Commit 122: refactor: Improve code readability and structure on 2025-05-22 09:59:42 -->
 <!-- Commit 123: refactor: Decouple modules on 2025-05-22 10:21:10 -->
 <!-- Commit 124: chore: Upgrade Python version on 2025-05-22 14:04:47 -->
+<!-- Commit 126: test: Improve test coverage on 2025-05-23 09:25:20 -->
