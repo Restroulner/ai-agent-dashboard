@@ -1098,3 +1098,4 @@ This project is licensed under the MIT License.
 <!-- Commit 187: fix: Resolve bug in model training loop on 2025-05-22 11:42:47 -->
 <!-- Commit 188: feat: Add support for new model architecture on 2025-05-23 13:13:21 -->
 <!-- Commit 189: perf: Reduce memory footprint on 2025-05-23 10:16:59 -->
+<!-- Commit 191: refactor: Extract common logic into helper function on 2025-05-26 15:22:58 -->
