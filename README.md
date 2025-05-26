@@ -128,3 +128,4 @@ This project is licensed under the MIT License.
 <!-- Commit 124: chore: Upgrade Python version on 2025-05-22 14:04:47 -->
 <!-- Commit 126: test: Improve test coverage on 2025-05-23 09:25:20 -->
 <!-- Commit 127: fix: Resolve bug in model training loop on 2025-05-23 14:26:33 -->
+<!-- Commit 128: docs: Clarify installation instructions on 2025-05-26 14:46:01 -->
