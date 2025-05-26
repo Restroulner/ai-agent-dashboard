@@ -465,3 +465,4 @@ This project is licensed under the MIT License.
 <!-- Commit 186: chore: Update dependencies on 2025-05-22 17:49:31 -->
 <!-- Commit 187: feat: Add support for new model architecture on 2025-05-22 16:29:28 -->
 <!-- Commit 188: refactor: Simplify conditional statements on 2025-05-26 16:30:29 -->
+<!-- Commit 189: test: Add integration tests on 2025-05-26 12:05:37 -->
