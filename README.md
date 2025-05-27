@@ -466,3 +466,4 @@ This project is licensed under the MIT License.
 <!-- Commit 187: feat: Add support for new model architecture on 2025-05-22 16:29:28 -->
 <!-- Commit 188: refactor: Simplify conditional statements on 2025-05-26 16:30:29 -->
 <!-- Commit 189: test: Add integration tests on 2025-05-26 12:05:37 -->
+<!-- Commit 191: test: Add unit tests for new module on 2025-05-27 11:17:16 -->
