@@ -129,3 +129,4 @@ This project is licensed under the MIT License.
 <!-- Commit 126: test: Improve test coverage on 2025-05-23 09:25:20 -->
 <!-- Commit 127: fix: Resolve bug in model training loop on 2025-05-23 14:26:33 -->
 <!-- Commit 128: docs: Clarify installation instructions on 2025-05-26 14:46:01 -->
+<!-- Commit 129: fix: Handle edge cases in input validation on 2025-05-27 16:33:08 -->
