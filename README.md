@@ -1101,3 +1101,4 @@ This project is licensed under the MIT License.
 <!-- Commit 191: refactor: Extract common logic into helper function on 2025-05-26 15:22:58 -->
 <!-- Commit 192: refactor: Simplify conditional statements on 2025-05-26 09:59:20 -->
 <!-- Commit 193: fix: Resolve bug in model training loop on 2025-05-27 16:22:31 -->
+<!-- Commit 194: docs: Update README with usage examples on 2025-05-28 09:46:09 -->
