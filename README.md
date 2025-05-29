@@ -1437,3 +1437,4 @@ This project is licensed under the MIT License.
 <!-- Commit 161: refactor: Decouple modules on 2025-05-22 12:48:40 -->
 <!-- Commit 162: chore: Configure CI/CD pipeline on 2025-05-27 15:42:38 -->
 <!-- Commit 163: style: Format code according to PEP8 on 2025-05-28 14:54:19 -->
+<!-- Commit 164: docs: Clarify installation instructions on 2025-05-29 10:09:41 -->
