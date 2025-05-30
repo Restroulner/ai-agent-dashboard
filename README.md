@@ -1103,3 +1103,4 @@ This project is licensed under the MIT License.
 <!-- Commit 193: fix: Resolve bug in model training loop on 2025-05-27 16:22:31 -->
 <!-- Commit 194: docs: Update README with usage examples on 2025-05-28 09:46:09 -->
 <!-- Commit 196: test: Add integration tests on 2025-05-29 17:45:58 -->
+<!-- Commit 197: style: Format code according to PEP8 on 2025-05-30 11:32:41 -->
