@@ -1104,3 +1104,4 @@ This project is licensed under the MIT License.
 <!-- Commit 194: docs: Update README with usage examples on 2025-05-28 09:46:09 -->
 <!-- Commit 196: test: Add integration tests on 2025-05-29 17:45:58 -->
 <!-- Commit 197: style: Format code according to PEP8 on 2025-05-30 11:32:41 -->
+<!-- Commit 198: style: Format code according to PEP8 on 2025-05-30 13:02:35 -->
