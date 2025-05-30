@@ -472,3 +472,4 @@ This project is licensed under the MIT License.
 <!-- Commit 194: docs: Clarify installation instructions on 2025-05-29 14:55:16 -->
 <!-- Commit 196: docs: Generate Sphinx documentation on 2025-05-30 16:44:49 -->
 <!-- Commit 197: feat: Add support for new model architecture on 2025-05-30 11:44:05 -->
+<!-- Commit 198: docs: Update README with usage examples on 2025-05-30 10:58:24 -->
