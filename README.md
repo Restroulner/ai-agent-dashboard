@@ -134,3 +134,4 @@ This project is licensed under the MIT License.
 <!-- Commit 132: style: Clean up whitespace on 2025-05-29 16:05:25 -->
 <!-- Commit 133: docs: Add API documentation on 2025-05-30 12:14:04 -->
 <!-- Commit 134: style: Adhere to linter rules on 2025-05-30 15:18:32 -->
+<!-- Commit 136: feat: Add support for new model architecture on 2025-06-04 10:43:38 -->
