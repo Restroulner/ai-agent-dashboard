@@ -773,3 +773,4 @@ This project is licensed under the MIT License.
 <!-- Commit 141: refactor: Decouple modules on 2025-05-26 13:51:03 -->
 <!-- Commit 142: test: Fix broken tests on 2025-05-27 10:45:08 -->
 <!-- Commit 143: perf: Reduce memory footprint on 2025-06-06 16:25:37 -->
+<!-- Commit 144: feat: Add support for new model architecture on 2025-06-06 15:40:17 -->
