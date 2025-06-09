@@ -135,3 +135,4 @@ This project is licensed under the MIT License.
 <!-- Commit 133: docs: Add API documentation on 2025-05-30 12:14:04 -->
 <!-- Commit 134: style: Adhere to linter rules on 2025-05-30 15:18:32 -->
 <!-- Commit 136: feat: Add support for new model architecture on 2025-06-04 10:43:38 -->
+<!-- Commit 137: fix: Prevent potential race condition on 2025-06-09 15:00:10 -->
