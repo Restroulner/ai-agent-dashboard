@@ -775,3 +775,4 @@ This project is licensed under the MIT License.
 <!-- Commit 143: perf: Reduce memory footprint on 2025-06-06 16:25:37 -->
 <!-- Commit 144: feat: Add support for new model architecture on 2025-06-06 15:40:17 -->
 <!-- Commit 146: docs: Update README with usage examples on 2025-06-09 15:10:17 -->
+<!-- Commit 147: refactor: Improve code readability and structure on 2025-06-10 11:59:44 -->
