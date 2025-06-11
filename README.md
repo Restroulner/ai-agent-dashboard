@@ -1446,3 +1446,4 @@ This project is licensed under the MIT License.
 <!-- Commit 172: feat: Add support for new model architecture on 2025-06-04 17:55:12 -->
 <!-- Commit 173: style: Clean up whitespace on 2025-06-04 11:22:57 -->
 <!-- Commit 174: fix: Correct off-by-one error in indexing on 2025-06-05 14:27:36 -->
+<!-- Commit 176: test: Add integration tests on 2025-06-11 11:36:21 -->
