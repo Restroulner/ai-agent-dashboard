@@ -141,3 +141,4 @@ This project is licensed under the MIT License.
 <!-- Commit 141: fix: Handle edge cases in input validation on 2025-06-11 15:51:15 -->
 <!-- Commit 142: docs: Clarify installation instructions on 2025-06-12 17:54:56 -->
 <!-- Commit 143: chore: Upgrade Python version on 2025-06-12 09:12:18 -->
+<!-- Commit 144: refactor: Improve code readability and structure on 2025-06-13 16:26:21 -->
