@@ -487,3 +487,4 @@ This project is licensed under the MIT License.
 <!-- Commit 213: fix: Handle edge cases in input validation on 2025-06-11 12:12:29 -->
 <!-- Commit 214: feat: Implement new evaluation metric on 2025-06-12 09:12:56 -->
 <!-- Commit 216: style: Clean up whitespace on 2025-06-17 13:46:51 -->
+<!-- Commit 217: refactor: Extract common logic into helper function on 2025-06-19 09:41:29 -->
