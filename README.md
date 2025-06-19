@@ -488,3 +488,4 @@ This project is licensed under the MIT License.
 <!-- Commit 214: feat: Implement new evaluation metric on 2025-06-12 09:12:56 -->
 <!-- Commit 216: style: Clean up whitespace on 2025-06-17 13:46:51 -->
 <!-- Commit 217: refactor: Extract common logic into helper function on 2025-06-19 09:41:29 -->
+<!-- Commit 218: chore: Automate release process on 2025-06-19 09:48:41 -->
