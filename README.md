@@ -783,3 +783,4 @@ This project is licensed under the MIT License.
 <!-- Commit 153: chore: Configure CI/CD pipeline on 2025-06-17 09:46:54 -->
 <!-- Commit 154: feat: Add support for new model architecture on 2025-06-17 12:05:37 -->
 <!-- Commit 156: docs: Update README with usage examples on 2025-06-20 11:46:02 -->
+<!-- Commit 157: refactor: Extract common logic into helper function on 2025-06-20 10:16:31 -->
