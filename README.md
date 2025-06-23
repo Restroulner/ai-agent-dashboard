@@ -144,3 +144,4 @@ This project is licensed under the MIT License.
 <!-- Commit 144: refactor: Improve code readability and structure on 2025-06-13 16:26:21 -->
 <!-- Commit 146: chore: Update dependencies on 2025-06-17 13:21:37 -->
 <!-- Commit 147: style: Adhere to linter rules on 2025-06-18 17:59:27 -->
+<!-- Commit 148: docs: Update README with usage examples on 2025-06-23 13:22:27 -->
