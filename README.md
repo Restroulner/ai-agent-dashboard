@@ -489,3 +489,4 @@ This project is licensed under the MIT License.
 <!-- Commit 216: style: Clean up whitespace on 2025-06-17 13:46:51 -->
 <!-- Commit 217: refactor: Extract common logic into helper function on 2025-06-19 09:41:29 -->
 <!-- Commit 218: chore: Automate release process on 2025-06-19 09:48:41 -->
+<!-- Commit 219: docs: Update README with usage examples on 2025-06-24 17:46:04 -->
