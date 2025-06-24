@@ -1455,3 +1455,4 @@ This project is licensed under the MIT License.
 <!-- Commit 183: refactor: Improve code readability and structure on 2025-06-23 15:33:16 -->
 <!-- Commit 184: refactor: Simplify conditional statements on 2025-06-23 09:50:32 -->
 <!-- Commit 186: docs: Clarify installation instructions on 2025-06-24 13:30:23 -->
+<!-- Commit 187: refactor: Decouple modules on 2025-06-24 12:31:23 -->
