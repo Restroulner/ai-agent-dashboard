@@ -145,3 +145,4 @@ This project is licensed under the MIT License.
 <!-- Commit 146: chore: Update dependencies on 2025-06-17 13:21:37 -->
 <!-- Commit 147: style: Adhere to linter rules on 2025-06-18 17:59:27 -->
 <!-- Commit 148: docs: Update README with usage examples on 2025-06-23 13:22:27 -->
+<!-- Commit 149: refactor: Decouple modules on 2025-06-24 16:18:16 -->
