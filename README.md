@@ -785,3 +785,4 @@ This project is licensed under the MIT License.
 <!-- Commit 156: docs: Update README with usage examples on 2025-06-20 11:46:02 -->
 <!-- Commit 157: refactor: Extract common logic into helper function on 2025-06-20 10:16:31 -->
 <!-- Commit 158: fix: Handle edge cases in input validation on 2025-06-25 17:20:11 -->
+<!-- Commit 159: docs: Add API documentation on 2025-06-25 13:36:05 -->
