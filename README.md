@@ -1458,3 +1458,4 @@ This project is licensed under the MIT License.
 <!-- Commit 187: refactor: Decouple modules on 2025-06-24 12:31:23 -->
 <!-- Commit 188: chore: Update dependencies on 2025-06-24 11:55:47 -->
 <!-- Commit 189: feat: Implement new evaluation metric on 2025-06-25 12:58:28 -->
+<!-- Commit 191: refactor: Simplify conditional statements on 2025-06-30 17:47:41 -->
