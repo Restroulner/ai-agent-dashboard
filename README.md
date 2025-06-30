@@ -493,3 +493,4 @@ This project is licensed under the MIT License.
 <!-- Commit 221: fix: Resolve bug in model training loop on 2025-06-26 11:53:01 -->
 <!-- Commit 222: docs: Add API documentation on 2025-06-26 13:21:44 -->
 <!-- Commit 223: perf: Optimize data loading performance on 2025-06-26 10:54:39 -->
+<!-- Commit 224: refactor: Simplify conditional statements on 2025-06-30 11:40:15 -->
