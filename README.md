@@ -1116,3 +1116,4 @@ This project is licensed under the MIT License.
 <!-- Commit 209: feat: Implement new evaluation metric on 2025-06-20 12:55:49 -->
 <!-- Commit 211: test: Fix broken tests on 2025-06-25 12:28:36 -->
 <!-- Commit 212: docs: Clarify installation instructions on 2025-06-26 09:50:55 -->
+<!-- Commit 213: docs: Clarify installation instructions on 2025-06-30 13:06:52 -->
