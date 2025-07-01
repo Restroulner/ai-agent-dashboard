@@ -147,3 +147,4 @@ This project is licensed under the MIT License.
 <!-- Commit 148: docs: Update README with usage examples on 2025-06-23 13:22:27 -->
 <!-- Commit 149: refactor: Decouple modules on 2025-06-24 16:18:16 -->
 <!-- Commit 151: chore: Automate release process on 2025-06-30 10:18:09 -->
+<!-- Commit 152: chore: Update dependencies on 2025-07-01 11:28:54 -->
