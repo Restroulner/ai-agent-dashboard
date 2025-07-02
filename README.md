@@ -149,3 +149,4 @@ This project is licensed under the MIT License.
 <!-- Commit 151: chore: Automate release process on 2025-06-30 10:18:09 -->
 <!-- Commit 152: chore: Update dependencies on 2025-07-01 11:28:54 -->
 <!-- Commit 153: feat: Add support for new model architecture on 2025-07-01 17:23:42 -->
+<!-- Commit 154: chore: Upgrade Python version on 2025-07-02 12:24:46 -->
