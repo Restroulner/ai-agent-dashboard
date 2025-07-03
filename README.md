@@ -495,3 +495,4 @@ This project is licensed under the MIT License.
 <!-- Commit 223: perf: Optimize data loading performance on 2025-06-26 10:54:39 -->
 <!-- Commit 224: refactor: Simplify conditional statements on 2025-06-30 11:40:15 -->
 <!-- Commit 226: refactor: Extract common logic into helper function on 2025-07-02 09:07:30 -->
+<!-- Commit 227: test: Add integration tests on 2025-07-03 16:37:45 -->
