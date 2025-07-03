@@ -1460,3 +1460,4 @@ This project is licensed under the MIT License.
 <!-- Commit 189: feat: Implement new evaluation metric on 2025-06-25 12:58:28 -->
 <!-- Commit 191: refactor: Simplify conditional statements on 2025-06-30 17:47:41 -->
 <!-- Commit 192: chore: Automate release process on 2025-07-02 12:16:25 -->
+<!-- Commit 193: refactor: Extract common logic into helper function on 2025-07-03 11:28:51 -->
