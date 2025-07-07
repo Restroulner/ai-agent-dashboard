@@ -152,3 +152,4 @@ This project is licensed under the MIT License.
 <!-- Commit 154: chore: Upgrade Python version on 2025-07-02 12:24:46 -->
 <!-- Commit 156: chore: Automate release process on 2025-07-03 12:05:10 -->
 <!-- Commit 157: docs: Clarify installation instructions on 2025-07-03 10:27:34 -->
+<!-- Commit 158: test: Improve test coverage on 2025-07-07 12:05:28 -->
