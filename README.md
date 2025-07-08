@@ -498,3 +498,4 @@ This project is licensed under the MIT License.
 <!-- Commit 227: test: Add integration tests on 2025-07-03 16:37:45 -->
 <!-- Commit 228: chore: Upgrade Python version on 2025-07-03 13:23:05 -->
 <!-- Commit 229: style: Adhere to linter rules on 2025-07-03 11:40:01 -->
+<!-- Commit 231: fix: Correct off-by-one error in indexing on 2025-07-08 12:20:29 -->
