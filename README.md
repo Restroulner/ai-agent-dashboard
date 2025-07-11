@@ -1120,3 +1120,4 @@ This project is licensed under the MIT License.
 <!-- Commit 214: chore: Configure CI/CD pipeline on 2025-07-01 13:33:55 -->
 <!-- Commit 216: refactor: Decouple modules on 2025-07-07 17:06:36 -->
 <!-- Commit 217: feat: Add support for new model architecture on 2025-07-11 14:34:48 -->
+<!-- Commit 218: refactor: Simplify conditional statements on 2025-07-11 17:54:29 -->
