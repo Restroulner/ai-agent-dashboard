@@ -503,3 +503,4 @@ This project is licensed under the MIT License.
 <!-- Commit 233: chore: Update dependencies on 2025-07-09 11:17:25 -->
 <!-- Commit 234: perf: Optimize data loading performance on 2025-07-11 15:54:04 -->
 <!-- Commit 236: chore: Configure CI/CD pipeline on 2025-07-11 14:41:54 -->
+<!-- Commit 237: docs: Update README with usage examples on 2025-07-14 17:48:02 -->
