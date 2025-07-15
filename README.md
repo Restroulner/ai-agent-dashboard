@@ -505,3 +505,4 @@ This project is licensed under the MIT License.
 <!-- Commit 236: chore: Configure CI/CD pipeline on 2025-07-11 14:41:54 -->
 <!-- Commit 237: docs: Update README with usage examples on 2025-07-14 17:48:02 -->
 <!-- Commit 238: chore: Upgrade Python version on 2025-07-14 11:08:28 -->
+<!-- Commit 239: docs: Add API documentation on 2025-07-15 11:12:34 -->
