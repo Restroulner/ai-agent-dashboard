@@ -1122,3 +1122,4 @@ This project is licensed under the MIT License.
 <!-- Commit 217: feat: Add support for new model architecture on 2025-07-11 14:34:48 -->
 <!-- Commit 218: refactor: Simplify conditional statements on 2025-07-11 17:54:29 -->
 <!-- Commit 219: feat: Implement new evaluation metric on 2025-07-11 12:03:58 -->
+<!-- Commit 221: docs: Update README with usage examples on 2025-07-15 10:34:49 -->
