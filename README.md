@@ -507,3 +507,4 @@ This project is licensed under the MIT License.
 <!-- Commit 238: chore: Upgrade Python version on 2025-07-14 11:08:28 -->
 <!-- Commit 239: docs: Add API documentation on 2025-07-15 11:12:34 -->
 <!-- Commit 241: feat: Add support for new model architecture on 2025-07-16 11:20:21 -->
+<!-- Commit 242: refactor: Simplify conditional statements on 2025-07-17 14:59:08 -->
