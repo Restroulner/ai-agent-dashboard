@@ -794,3 +794,4 @@ This project is licensed under the MIT License.
 <!-- Commit 167: docs: Clarify installation instructions on 2025-07-10 09:02:45 -->
 <!-- Commit 168: feat: Add new feature for data processing on 2025-07-16 17:28:16 -->
 <!-- Commit 169: docs: Update README with usage examples on 2025-07-16 17:59:34 -->
+<!-- Commit 171: docs: Clarify installation instructions on 2025-07-18 17:25:33 -->
