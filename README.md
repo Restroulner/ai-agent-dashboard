@@ -510,3 +510,4 @@ This project is licensed under the MIT License.
 <!-- Commit 242: refactor: Simplify conditional statements on 2025-07-17 14:59:08 -->
 <!-- Commit 243: perf: Reduce memory footprint on 2025-07-18 17:17:52 -->
 <!-- Commit 244: perf: Parallelize computation on 2025-07-21 11:51:48 -->
+<!-- Commit 246: docs: Add API documentation on 2025-07-24 16:39:48 -->
