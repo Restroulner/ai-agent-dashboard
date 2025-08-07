@@ -172,3 +172,4 @@ This project is licensed under the MIT License.
 <!-- Commit 179: chore: Update dependencies on 2025-08-01 12:49:11 -->
 <!-- Commit 181: docs: Generate Sphinx documentation on 2025-08-06 14:38:04 -->
 <!-- Commit 182: test: Fix broken tests on 2025-08-06 14:10:05 -->
+<!-- Commit 183: docs: Add API documentation on 2025-08-07 16:59:43 -->
