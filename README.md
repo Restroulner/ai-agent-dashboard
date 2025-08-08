@@ -1488,3 +1488,4 @@ This project is licensed under the MIT License.
 <!-- Commit 224: chore: Upgrade Python version on 2025-08-07 16:45:00 -->
 <!-- Commit 226: feat: Add support for new model architecture on 2025-08-08 11:24:41 -->
 <!-- Commit 227: test: Add unit tests for new module on 2025-08-08 12:05:42 -->
+<!-- Commit 228: docs: Add API documentation on 2025-08-08 13:07:17 -->
