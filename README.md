@@ -178,3 +178,4 @@ This project is licensed under the MIT License.
 <!-- Commit 187: feat: Implement new evaluation metric on 2025-08-12 17:47:03 -->
 <!-- Commit 188: perf: Parallelize computation on 2025-08-13 16:49:15 -->
 <!-- Commit 189: chore: Upgrade Python version on 2025-08-14 14:10:45 -->
+<!-- Commit 191: refactor: Simplify conditional statements on 2025-08-14 16:07:14 -->
