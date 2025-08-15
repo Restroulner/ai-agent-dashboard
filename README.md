@@ -806,3 +806,4 @@ This project is licensed under the MIT License.
 <!-- Commit 182: perf: Parallelize computation on 2025-08-07 12:11:54 -->
 <!-- Commit 183: test: Improve test coverage on 2025-08-11 09:28:22 -->
 <!-- Commit 184: style: Clean up whitespace on 2025-08-13 13:56:32 -->
+<!-- Commit 186: docs: Clarify installation instructions on 2025-08-15 12:56:26 -->
