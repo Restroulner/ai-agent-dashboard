@@ -1494,3 +1494,4 @@ This project is licensed under the MIT License.
 <!-- Commit 232: docs: Update README with usage examples on 2025-08-14 12:43:25 -->
 <!-- Commit 233: feat: Integrate new data source on 2025-08-14 13:14:30 -->
 <!-- Commit 234: feat: Add support for new model architecture on 2025-08-14 17:09:15 -->
+<!-- Commit 236: test: Improve test coverage on 2025-08-18 13:24:05 -->
