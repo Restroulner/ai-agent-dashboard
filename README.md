@@ -184,3 +184,4 @@ This project is licensed under the MIT License.
 <!-- Commit 194: docs: Update README with usage examples on 2025-08-20 12:32:59 -->
 <!-- Commit 196: refactor: Simplify conditional statements on 2025-08-21 12:12:48 -->
 <!-- Commit 197: test: Improve test coverage on 2025-08-22 09:23:35 -->
+<!-- Commit 198: docs: Clarify installation instructions on 2025-08-22 16:25:48 -->
