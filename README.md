@@ -809,3 +809,4 @@ This project is licensed under the MIT License.
 <!-- Commit 186: docs: Clarify installation instructions on 2025-08-15 12:56:26 -->
 <!-- Commit 187: refactor: Improve code readability and structure on 2025-08-19 11:13:09 -->
 <!-- Commit 188: chore: Upgrade Python version on 2025-08-20 15:25:42 -->
+<!-- Commit 189: refactor: Decouple modules on 2025-08-22 13:51:53 -->
