@@ -522,3 +522,4 @@ This project is licensed under the MIT License.
 <!-- Commit 257: chore: Upgrade Python version on 2025-08-18 10:56:50 -->
 <!-- Commit 258: fix: Handle edge cases in input validation on 2025-08-21 15:48:17 -->
 <!-- Commit 259: style: Clean up whitespace on 2025-08-22 14:00:08 -->
+<!-- Commit 261: refactor: Extract common logic into helper function on 2025-08-22 10:10:09 -->
