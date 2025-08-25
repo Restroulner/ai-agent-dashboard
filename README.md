@@ -1150,3 +1150,4 @@ This project is licensed under the MIT License.
 <!-- Commit 252: fix: Prevent potential race condition on 2025-08-25 17:23:50 -->
 <!-- Commit 253: docs: Clarify installation instructions on 2025-08-25 13:27:08 -->
 <!-- Commit 254: fix: Correct off-by-one error in indexing on 2025-08-25 13:28:30 -->
+<!-- Commit 256: test: Add integration tests on 2025-08-25 09:49:38 -->
