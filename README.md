@@ -1151,3 +1151,4 @@ This project is licensed under the MIT License.
 <!-- Commit 253: docs: Clarify installation instructions on 2025-08-25 13:27:08 -->
 <!-- Commit 254: fix: Correct off-by-one error in indexing on 2025-08-25 13:28:30 -->
 <!-- Commit 256: test: Add integration tests on 2025-08-25 09:49:38 -->
+<!-- Commit 257: fix: Resolve bug in model training loop on 2025-08-26 09:22:41 -->
