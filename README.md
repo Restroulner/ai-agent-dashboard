@@ -811,3 +811,4 @@ This project is licensed under the MIT License.
 <!-- Commit 188: chore: Upgrade Python version on 2025-08-20 15:25:42 -->
 <!-- Commit 189: refactor: Decouple modules on 2025-08-22 13:51:53 -->
 <!-- Commit 191: feat: Integrate new data source on 2025-08-25 15:21:26 -->
+<!-- Commit 192: refactor: Improve code readability and structure on 2025-08-26 16:52:04 -->
