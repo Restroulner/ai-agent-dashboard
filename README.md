@@ -1154,3 +1154,4 @@ This project is licensed under the MIT License.
 <!-- Commit 257: fix: Resolve bug in model training loop on 2025-08-26 09:22:41 -->
 <!-- Commit 258: fix: Resolve bug in model training loop on 2025-08-26 16:12:47 -->
 <!-- Commit 259: chore: Update dependencies on 2025-08-26 13:10:55 -->
+<!-- Commit 261: docs: Add API documentation on 2025-08-28 12:01:07 -->
