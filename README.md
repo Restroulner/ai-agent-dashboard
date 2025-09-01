@@ -815,3 +815,4 @@ This project is licensed under the MIT License.
 <!-- Commit 193: docs: Add API documentation on 2025-08-27 10:17:28 -->
 <!-- Commit 194: style: Adhere to linter rules on 2025-08-28 14:09:40 -->
 <!-- Commit 196: chore: Configure CI/CD pipeline on 2025-08-29 15:38:33 -->
+<!-- Commit 197: test: Add integration tests on 2025-09-01 16:34:18 -->
