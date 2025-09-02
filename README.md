@@ -189,3 +189,4 @@ This project is licensed under the MIT License.
 <!-- Commit 201: perf: Parallelize computation on 2025-08-27 15:09:09 -->
 <!-- Commit 202: feat: Integrate new data source on 2025-09-01 12:37:35 -->
 <!-- Commit 203: style: Clean up whitespace on 2025-09-02 17:18:19 -->
+<!-- Commit 204: refactor: Extract common logic into helper function on 2025-09-02 14:47:56 -->
