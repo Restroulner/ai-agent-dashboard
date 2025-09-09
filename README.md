@@ -819,3 +819,4 @@ This project is licensed under the MIT License.
 <!-- Commit 198: refactor: Extract common logic into helper function on 2025-09-02 10:20:22 -->
 <!-- Commit 199: style: Clean up whitespace on 2025-09-02 15:12:55 -->
 <!-- Commit 201: docs: Generate Sphinx documentation on 2025-09-04 14:38:47 -->
+<!-- Commit 202: refactor: Simplify conditional statements on 2025-09-09 16:59:33 -->
