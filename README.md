@@ -194,3 +194,4 @@ This project is licensed under the MIT License.
 <!-- Commit 207: test: Improve test coverage on 2025-09-05 17:43:34 -->
 <!-- Commit 208: refactor: Decouple modules on 2025-09-09 16:11:36 -->
 <!-- Commit 209: test: Add integration tests on 2025-09-09 09:32:47 -->
+<!-- Commit 211: feat: Add support for new model architecture on 2025-09-12 13:16:40 -->
