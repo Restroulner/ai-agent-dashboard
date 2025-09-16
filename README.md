@@ -196,3 +196,4 @@ This project is licensed under the MIT License.
 <!-- Commit 209: test: Add integration tests on 2025-09-09 09:32:47 -->
 <!-- Commit 211: feat: Add support for new model architecture on 2025-09-12 13:16:40 -->
 <!-- Commit 212: style: Adhere to linter rules on 2025-09-15 17:53:12 -->
+<!-- Commit 213: test: Fix broken tests on 2025-09-16 09:37:26 -->
