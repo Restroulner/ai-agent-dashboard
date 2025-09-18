@@ -1176,3 +1176,4 @@ This project is licensed under the MIT License.
 <!-- Commit 284: docs: Clarify installation instructions on 2025-09-16 10:19:33 -->
 <!-- Commit 286: docs: Update README with usage examples on 2025-09-17 13:26:13 -->
 <!-- Commit 287: fix: Correct off-by-one error in indexing on 2025-09-17 09:13:59 -->
+<!-- Commit 288: chore: Configure CI/CD pipeline on 2025-09-18 12:00:46 -->
