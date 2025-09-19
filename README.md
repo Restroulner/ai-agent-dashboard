@@ -1178,3 +1178,4 @@ This project is licensed under the MIT License.
 <!-- Commit 287: fix: Correct off-by-one error in indexing on 2025-09-17 09:13:59 -->
 <!-- Commit 288: chore: Configure CI/CD pipeline on 2025-09-18 12:00:46 -->
 <!-- Commit 289: style: Format code according to PEP8 on 2025-09-18 14:54:38 -->
+<!-- Commit 291: docs: Add API documentation on 2025-09-19 10:52:31 -->
