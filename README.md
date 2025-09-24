@@ -1184,3 +1184,4 @@ This project is licensed under the MIT License.
 <!-- Commit 294: feat: Implement new evaluation metric on 2025-09-23 11:46:49 -->
 <!-- Commit 296: refactor: Decouple modules on 2025-09-23 15:28:23 -->
 <!-- Commit 297: test: Fix broken tests on 2025-09-23 09:19:45 -->
+<!-- Commit 298: refactor: Extract common logic into helper function on 2025-09-24 17:17:00 -->
