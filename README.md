@@ -203,3 +203,4 @@ This project is licensed under the MIT License.
 <!-- Commit 218: perf: Reduce memory footprint on 2025-09-22 14:15:16 -->
 <!-- Commit 219: docs: Update README with usage examples on 2025-09-22 16:18:14 -->
 <!-- Commit 221: docs: Add API documentation on 2025-09-23 17:32:43 -->
+<!-- Commit 222: chore: Configure CI/CD pipeline on 2025-09-26 09:48:14 -->
