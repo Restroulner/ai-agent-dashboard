@@ -205,3 +205,4 @@ This project is licensed under the MIT License.
 <!-- Commit 221: docs: Add API documentation on 2025-09-23 17:32:43 -->
 <!-- Commit 222: chore: Configure CI/CD pipeline on 2025-09-26 09:48:14 -->
 <!-- Commit 223: chore: Automate release process on 2025-09-26 16:56:05 -->
+<!-- Commit 224: refactor: Extract common logic into helper function on 2025-09-29 14:59:59 -->
