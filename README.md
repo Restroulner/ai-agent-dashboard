@@ -1515,3 +1515,4 @@ This project is licensed under the MIT License.
 <!-- Commit 258: chore: Automate release process on 2025-09-23 15:35:58 -->
 <!-- Commit 259: feat: Add support for new model architecture on 2025-09-23 09:24:18 -->
 <!-- Commit 261: test: Fix broken tests on 2025-09-30 10:48:27 -->
+<!-- Commit 262: style: Format code according to PEP8 on 2025-10-01 09:46:35 -->
