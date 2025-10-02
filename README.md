@@ -209,3 +209,4 @@ This project is licensed under the MIT License.
 <!-- Commit 226: feat: Integrate new data source on 2025-09-30 15:06:03 -->
 <!-- Commit 227: chore: Upgrade Python version on 2025-09-30 13:39:04 -->
 <!-- Commit 228: test: Fix broken tests on 2025-10-01 16:54:23 -->
+<!-- Commit 229: fix: Correct off-by-one error in indexing on 2025-10-02 13:19:38 -->
