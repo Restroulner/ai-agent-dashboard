@@ -1198,3 +1198,4 @@ This project is licensed under the MIT License.
 <!-- Commit 312: chore: Upgrade Python version on 2025-10-13 14:11:12 -->
 <!-- Commit 313: test: Improve test coverage on 2025-10-14 16:23:08 -->
 <!-- Commit 314: test: Fix broken tests on 2025-10-14 12:13:58 -->
+<!-- Commit 316: docs: Update README with usage examples on 2025-10-15 14:02:01 -->
