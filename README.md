@@ -846,3 +846,4 @@ This project is licensed under the MIT License.
 <!-- Commit 232: perf: Optimize data loading performance on 2025-10-14 16:00:18 -->
 <!-- Commit 233: refactor: Decouple modules on 2025-10-14 15:06:42 -->
 <!-- Commit 234: test: Add integration tests on 2025-10-15 12:14:02 -->
+<!-- Commit 236: docs: Add API documentation on 2025-10-17 16:35:02 -->
