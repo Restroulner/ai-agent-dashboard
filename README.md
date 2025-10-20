@@ -1528,3 +1528,4 @@ This project is licensed under the MIT License.
 <!-- Commit 274: chore: Update dependencies on 2025-10-16 14:00:03 -->
 <!-- Commit 276: test: Improve test coverage on 2025-10-17 15:16:01 -->
 <!-- Commit 277: perf: Optimize data loading performance on 2025-10-17 09:02:28 -->
+<!-- Commit 278: docs: Update README with usage examples on 2025-10-20 14:39:55 -->
