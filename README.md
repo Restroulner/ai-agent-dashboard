@@ -1529,3 +1529,4 @@ This project is licensed under the MIT License.
 <!-- Commit 276: test: Improve test coverage on 2025-10-17 15:16:01 -->
 <!-- Commit 277: perf: Optimize data loading performance on 2025-10-17 09:02:28 -->
 <!-- Commit 278: docs: Update README with usage examples on 2025-10-20 14:39:55 -->
+<!-- Commit 279: refactor: Extract common logic into helper function on 2025-10-21 09:28:31 -->
