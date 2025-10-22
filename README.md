@@ -850,3 +850,4 @@ This project is licensed under the MIT License.
 <!-- Commit 237: test: Improve test coverage on 2025-10-17 13:13:39 -->
 <!-- Commit 238: fix: Prevent potential race condition on 2025-10-20 11:59:48 -->
 <!-- Commit 239: test: Add unit tests for new module on 2025-10-20 13:53:03 -->
+<!-- Commit 241: docs: Clarify installation instructions on 2025-10-22 13:47:36 -->
