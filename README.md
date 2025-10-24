@@ -223,3 +223,4 @@ This project is licensed under the MIT License.
 <!-- Commit 243: perf: Parallelize computation on 2025-10-20 16:07:23 -->
 <!-- Commit 244: docs: Clarify installation instructions on 2025-10-20 10:57:17 -->
 <!-- Commit 246: perf: Reduce memory footprint on 2025-10-24 17:21:56 -->
+<!-- Commit 247: test: Add integration tests on 2025-10-24 09:23:07 -->
