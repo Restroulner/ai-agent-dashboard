@@ -563,3 +563,4 @@ This project is licensed under the MIT License.
 <!-- Commit 308: refactor: Extract common logic into helper function on 2025-10-23 10:14:20 -->
 <!-- Commit 309: docs: Clarify installation instructions on 2025-10-24 12:24:54 -->
 <!-- Commit 311: chore: Upgrade Python version on 2025-10-24 10:46:51 -->
+<!-- Commit 312: feat: Add support for new model architecture on 2025-10-24 17:17:09 -->
