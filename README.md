@@ -224,3 +224,4 @@ This project is licensed under the MIT License.
 <!-- Commit 244: docs: Clarify installation instructions on 2025-10-20 10:57:17 -->
 <!-- Commit 246: perf: Reduce memory footprint on 2025-10-24 17:21:56 -->
 <!-- Commit 247: test: Add integration tests on 2025-10-24 09:23:07 -->
+<!-- Commit 248: docs: Generate Sphinx documentation on 2025-10-27 09:49:31 -->
