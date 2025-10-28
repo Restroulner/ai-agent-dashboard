@@ -857,3 +857,4 @@ This project is licensed under the MIT License.
 <!-- Commit 246: test: Add integration tests on 2025-10-27 13:22:28 -->
 <!-- Commit 247: docs: Clarify installation instructions on 2025-10-28 16:25:56 -->
 <!-- Commit 248: perf: Optimize data loading performance on 2025-10-28 17:34:26 -->
+<!-- Commit 249: refactor: Simplify conditional statements on 2025-10-28 17:28:24 -->
