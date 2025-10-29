@@ -227,3 +227,4 @@ This project is licensed under the MIT License.
 <!-- Commit 248: docs: Generate Sphinx documentation on 2025-10-27 09:49:31 -->
 <!-- Commit 249: style: Format code according to PEP8 on 2025-10-27 09:10:00 -->
 <!-- Commit 251: refactor: Improve code readability and structure on 2025-10-29 16:51:15 -->
+<!-- Commit 252: test: Add integration tests on 2025-10-29 10:24:15 -->
