@@ -566,3 +566,4 @@ This project is licensed under the MIT License.
 <!-- Commit 312: feat: Add support for new model architecture on 2025-10-24 17:17:09 -->
 <!-- Commit 313: test: Fix broken tests on 2025-10-27 13:40:33 -->
 <!-- Commit 314: fix: Correct off-by-one error in indexing on 2025-10-27 13:26:27 -->
+<!-- Commit 316: fix: Prevent potential race condition on 2025-10-29 09:23:59 -->
