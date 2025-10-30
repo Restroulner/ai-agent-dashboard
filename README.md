@@ -568,3 +568,4 @@ This project is licensed under the MIT License.
 <!-- Commit 314: fix: Correct off-by-one error in indexing on 2025-10-27 13:26:27 -->
 <!-- Commit 316: fix: Prevent potential race condition on 2025-10-29 09:23:59 -->
 <!-- Commit 317: perf: Reduce memory footprint on 2025-10-30 17:11:24 -->
+<!-- Commit 318: docs: Add API documentation on 2025-10-30 09:01:47 -->
