@@ -581,3 +581,4 @@ This project is licensed under the MIT License.
 <!-- Commit 331: style: Clean up whitespace on 2025-11-07 13:46:33 -->
 <!-- Commit 332: refactor: Improve code readability and structure on 2025-11-10 13:09:15 -->
 <!-- Commit 333: test: Fix broken tests on 2025-11-10 13:55:25 -->
+<!-- Commit 334: test: Improve test coverage on 2025-11-10 12:12:04 -->
