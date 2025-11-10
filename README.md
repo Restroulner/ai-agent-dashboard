@@ -579,3 +579,4 @@ This project is licensed under the MIT License.
 <!-- Commit 328: perf: Optimize data loading performance on 2025-11-06 11:47:20 -->
 <!-- Commit 329: style: Format code according to PEP8 on 2025-11-07 17:14:41 -->
 <!-- Commit 331: style: Clean up whitespace on 2025-11-07 13:46:33 -->
+<!-- Commit 332: refactor: Improve code readability and structure on 2025-11-10 13:09:15 -->
