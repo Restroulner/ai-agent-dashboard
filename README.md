@@ -582,3 +582,4 @@ This project is licensed under the MIT License.
 <!-- Commit 332: refactor: Improve code readability and structure on 2025-11-10 13:09:15 -->
 <!-- Commit 333: test: Fix broken tests on 2025-11-10 13:55:25 -->
 <!-- Commit 334: test: Improve test coverage on 2025-11-10 12:12:04 -->
+<!-- Commit 336: feat: Add support for new model architecture on 2025-11-11 16:11:09 -->
