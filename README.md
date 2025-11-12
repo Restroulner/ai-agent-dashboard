@@ -1543,3 +1543,4 @@ This project is licensed under the MIT License.
 <!-- Commit 293: style: Format code according to PEP8 on 2025-11-05 11:37:36 -->
 <!-- Commit 294: chore: Automate release process on 2025-11-06 15:24:44 -->
 <!-- Commit 296: fix: Prevent potential race condition on 2025-11-11 10:18:00 -->
+<!-- Commit 297: refactor: Improve code readability and structure on 2025-11-12 12:03:00 -->
