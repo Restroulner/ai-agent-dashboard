@@ -588,3 +588,4 @@ This project is licensed under the MIT License.
 <!-- Commit 339: feat: Add support for new model architecture on 2025-11-17 11:34:59 -->
 <!-- Commit 341: perf: Parallelize computation on 2025-11-20 10:57:32 -->
 <!-- Commit 342: refactor: Decouple modules on 2025-11-20 09:05:42 -->
+<!-- Commit 343: perf: Reduce memory footprint on 2025-11-21 17:14:51 -->
