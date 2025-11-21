@@ -1225,3 +1225,4 @@ This project is licensed under the MIT License.
 <!-- Commit 346: perf: Parallelize computation on 2025-11-18 15:11:24 -->
 <!-- Commit 347: refactor: Improve code readability and structure on 2025-11-19 12:36:18 -->
 <!-- Commit 348: chore: Automate release process on 2025-11-19 12:13:43 -->
+<!-- Commit 349: refactor: Simplify conditional statements on 2025-11-21 12:48:46 -->
