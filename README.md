@@ -1231,3 +1231,4 @@ This project is licensed under the MIT License.
 <!-- Commit 353: chore: Automate release process on 2025-11-27 16:32:02 -->
 <!-- Commit 354: feat: Implement new evaluation metric on 2025-11-27 16:40:00 -->
 <!-- Commit 356: fix: Correct off-by-one error in indexing on 2025-11-28 13:29:30 -->
+<!-- Commit 357: docs: Add API documentation on 2025-12-01 15:07:20 -->
