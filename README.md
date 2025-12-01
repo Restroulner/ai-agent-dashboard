@@ -1554,3 +1554,4 @@ This project is licensed under the MIT License.
 <!-- Commit 307: feat: Add support for new model architecture on 2025-11-24 17:52:09 -->
 <!-- Commit 308: docs: Update README with usage examples on 2025-11-24 13:06:08 -->
 <!-- Commit 309: refactor: Extract common logic into helper function on 2025-11-24 14:42:39 -->
+<!-- Commit 311: feat: Add support for new model architecture on 2025-12-01 13:25:13 -->
