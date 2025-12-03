@@ -1557,3 +1557,4 @@ This project is licensed under the MIT License.
 <!-- Commit 311: feat: Add support for new model architecture on 2025-12-01 13:25:13 -->
 <!-- Commit 312: refactor: Improve code readability and structure on 2025-12-02 16:22:44 -->
 <!-- Commit 313: test: Add unit tests for new module on 2025-12-03 16:15:01 -->
+<!-- Commit 314: fix: Correct off-by-one error in indexing on 2025-12-03 10:59:29 -->
