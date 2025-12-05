@@ -1234,3 +1234,4 @@ This project is licensed under the MIT License.
 <!-- Commit 357: docs: Add API documentation on 2025-12-01 15:07:20 -->
 <!-- Commit 358: feat: Implement new evaluation metric on 2025-12-02 11:31:25 -->
 <!-- Commit 359: style: Clean up whitespace on 2025-12-04 16:00:17 -->
+<!-- Commit 361: refactor: Simplify conditional statements on 2025-12-05 12:04:51 -->
