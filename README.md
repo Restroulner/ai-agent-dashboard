@@ -594,3 +594,4 @@ This project is licensed under the MIT License.
 <!-- Commit 347: style: Format code according to PEP8 on 2025-12-03 10:31:28 -->
 <!-- Commit 348: style: Adhere to linter rules on 2025-12-08 17:07:00 -->
 <!-- Commit 349: style: Adhere to linter rules on 2025-12-09 13:42:45 -->
+<!-- Commit 351: fix: Resolve bug in model training loop on 2025-12-09 11:34:25 -->
