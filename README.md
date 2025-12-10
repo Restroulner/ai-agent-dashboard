@@ -244,3 +244,4 @@ This project is licensed under the MIT License.
 <!-- Commit 269: style: Adhere to linter rules on 2025-12-02 09:04:32 -->
 <!-- Commit 271: perf: Reduce memory footprint on 2025-12-09 16:51:17 -->
 <!-- Commit 272: docs: Generate Sphinx documentation on 2025-12-09 16:42:39 -->
+<!-- Commit 273: fix: Resolve bug in model training loop on 2025-12-10 17:54:16 -->
