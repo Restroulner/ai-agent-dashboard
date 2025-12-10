@@ -596,3 +596,4 @@ This project is licensed under the MIT License.
 <!-- Commit 349: style: Adhere to linter rules on 2025-12-09 13:42:45 -->
 <!-- Commit 351: fix: Resolve bug in model training loop on 2025-12-09 11:34:25 -->
 <!-- Commit 352: fix: Resolve bug in model training loop on 2025-12-09 16:48:59 -->
+<!-- Commit 353: test: Improve test coverage on 2025-12-10 15:25:59 -->
