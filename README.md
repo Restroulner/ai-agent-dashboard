@@ -887,3 +887,4 @@ This project is licensed under the MIT License.
 <!-- Commit 283: docs: Add API documentation on 2025-12-10 12:23:46 -->
 <!-- Commit 284: feat: Implement new evaluation metric on 2025-12-11 10:12:41 -->
 <!-- Commit 286: style: Format code according to PEP8 on 2025-12-12 09:32:54 -->
+<!-- Commit 287: test: Add integration tests on 2025-12-12 13:14:13 -->
