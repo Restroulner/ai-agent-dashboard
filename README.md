@@ -248,3 +248,4 @@ This project is licensed under the MIT License.
 <!-- Commit 274: refactor: Improve code readability and structure on 2025-12-10 17:58:30 -->
 <!-- Commit 276: fix: Prevent potential race condition on 2025-12-12 15:38:04 -->
 <!-- Commit 277: style: Clean up whitespace on 2025-12-12 11:50:27 -->
+<!-- Commit 278: test: Add integration tests on 2025-12-15 15:12:37 -->
