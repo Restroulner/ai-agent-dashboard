@@ -600,3 +600,4 @@ This project is licensed under the MIT License.
 <!-- Commit 354: chore: Configure CI/CD pipeline on 2025-12-11 16:40:53 -->
 <!-- Commit 356: feat: Implement new evaluation metric on 2025-12-17 16:24:08 -->
 <!-- Commit 357: refactor: Extract common logic into helper function on 2025-12-17 14:55:55 -->
+<!-- Commit 358: docs: Generate Sphinx documentation on 2025-12-17 15:47:50 -->
