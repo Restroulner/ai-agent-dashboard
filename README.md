@@ -1565,3 +1565,4 @@ This project is licensed under the MIT License.
 <!-- Commit 321: test: Fix broken tests on 2025-12-12 17:57:18 -->
 <!-- Commit 322: refactor: Improve code readability and structure on 2025-12-15 15:39:36 -->
 <!-- Commit 323: feat: Add new feature for data processing on 2025-12-17 17:13:25 -->
+<!-- Commit 324: docs: Update README with usage examples on 2025-12-17 13:10:52 -->
