@@ -603,3 +603,4 @@ This project is licensed under the MIT License.
 <!-- Commit 358: docs: Generate Sphinx documentation on 2025-12-17 15:47:50 -->
 <!-- Commit 359: perf: Optimize data loading performance on 2025-12-18 11:40:00 -->
 <!-- Commit 361: docs: Generate Sphinx documentation on 2025-12-19 17:43:57 -->
+<!-- Commit 362: refactor: Simplify conditional statements on 2025-12-19 10:17:21 -->
