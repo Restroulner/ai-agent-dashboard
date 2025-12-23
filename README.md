@@ -1568,3 +1568,4 @@ This project is licensed under the MIT License.
 <!-- Commit 324: docs: Update README with usage examples on 2025-12-17 13:10:52 -->
 <!-- Commit 326: style: Adhere to linter rules on 2025-12-18 11:39:57 -->
 <!-- Commit 327: refactor: Improve code readability and structure on 2025-12-19 17:39:16 -->
+<!-- Commit 328: chore: Automate release process on 2025-12-23 14:16:00 -->
