@@ -606,3 +606,4 @@ This project is licensed under the MIT License.
 <!-- Commit 362: refactor: Simplify conditional statements on 2025-12-19 10:17:21 -->
 <!-- Commit 363: chore: Automate release process on 2025-12-19 10:21:08 -->
 <!-- Commit 364: docs: Clarify installation instructions on 2025-12-22 13:39:12 -->
+<!-- Commit 366: docs: Update README with usage examples on 2025-12-23 13:39:12 -->
