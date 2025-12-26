@@ -1253,3 +1253,4 @@ This project is licensed under the MIT License.
 <!-- Commit 381: feat: Integrate new data source on 2025-12-24 12:21:56 -->
 <!-- Commit 382: fix: Resolve bug in model training loop on 2025-12-24 10:19:04 -->
 <!-- Commit 383: feat: Integrate new data source on 2025-12-26 10:02:53 -->
+<!-- Commit 384: docs: Add API documentation on 2025-12-26 11:09:22 -->
