@@ -256,3 +256,4 @@ This project is licensed under the MIT License.
 <!-- Commit 284: docs: Update README with usage examples on 2025-12-18 16:32:45 -->
 <!-- Commit 286: refactor: Decouple modules on 2025-12-23 16:03:42 -->
 <!-- Commit 287: refactor: Extract common logic into helper function on 2025-12-24 13:30:11 -->
+<!-- Commit 288: refactor: Improve code readability and structure on 2025-12-26 14:28:44 -->
