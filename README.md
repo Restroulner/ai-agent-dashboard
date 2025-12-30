@@ -258,3 +258,4 @@ This project is licensed under the MIT License.
 <!-- Commit 287: refactor: Extract common logic into helper function on 2025-12-24 13:30:11 -->
 <!-- Commit 288: refactor: Improve code readability and structure on 2025-12-26 14:28:44 -->
 <!-- Commit 289: chore: Upgrade Python version on 2025-12-29 09:56:19 -->
+<!-- Commit 291: chore: Automate release process on 2025-12-30 14:17:06 -->
