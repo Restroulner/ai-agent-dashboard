@@ -903,3 +903,4 @@ This project is licensed under the MIT License.
 <!-- Commit 303: test: Add unit tests for new module on 2026-01-02 13:51:18 -->
 <!-- Commit 304: docs: Update README with usage examples on 2026-01-02 16:15:17 -->
 <!-- Commit 306: test: Add unit tests for new module on 2026-01-02 13:52:29 -->
+<!-- Commit 307: docs: Add API documentation on 2026-01-06 17:58:38 -->
