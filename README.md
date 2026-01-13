@@ -263,3 +263,4 @@ This project is licensed under the MIT License.
 <!-- Commit 293: chore: Update dependencies on 2026-01-02 16:48:53 -->
 <!-- Commit 294: fix: Prevent potential race condition on 2026-01-06 10:46:59 -->
 <!-- Commit 296: test: Improve test coverage on 2026-01-08 13:43:12 -->
+<!-- Commit 297: docs: Add API documentation on 2026-01-13 13:10:07 -->
