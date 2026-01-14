@@ -907,3 +907,4 @@ This project is licensed under the MIT License.
 <!-- Commit 308: chore: Update dependencies on 2026-01-06 11:22:01 -->
 <!-- Commit 309: perf: Parallelize computation on 2026-01-06 11:23:53 -->
 <!-- Commit 311: refactor: Simplify conditional statements on 2026-01-13 15:11:22 -->
+<!-- Commit 312: refactor: Extract common logic into helper function on 2026-01-14 11:29:53 -->
