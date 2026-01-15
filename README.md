@@ -1579,3 +1579,4 @@ This project is licensed under the MIT License.
 <!-- Commit 338: refactor: Decouple modules on 2026-01-07 13:40:50 -->
 <!-- Commit 339: style: Adhere to linter rules on 2026-01-08 10:03:55 -->
 <!-- Commit 341: docs: Generate Sphinx documentation on 2026-01-13 16:27:38 -->
+<!-- Commit 342: docs: Update README with usage examples on 2026-01-15 13:40:04 -->
