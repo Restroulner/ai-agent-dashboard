@@ -264,3 +264,4 @@ This project is licensed under the MIT License.
 <!-- Commit 294: fix: Prevent potential race condition on 2026-01-06 10:46:59 -->
 <!-- Commit 296: test: Improve test coverage on 2026-01-08 13:43:12 -->
 <!-- Commit 297: docs: Add API documentation on 2026-01-13 13:10:07 -->
+<!-- Commit 298: style: Format code according to PEP8 on 2026-01-15 16:30:45 -->
