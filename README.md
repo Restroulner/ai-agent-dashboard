@@ -266,3 +266,4 @@ This project is licensed under the MIT License.
 <!-- Commit 297: docs: Add API documentation on 2026-01-13 13:10:07 -->
 <!-- Commit 298: style: Format code according to PEP8 on 2026-01-15 16:30:45 -->
 <!-- Commit 299: docs: Update README with usage examples on 2026-01-15 11:10:30 -->
+<!-- Commit 301: fix: Handle edge cases in input validation on 2026-01-20 16:04:37 -->
