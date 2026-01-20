@@ -1588,3 +1588,4 @@ This project is licensed under the MIT License.
 <!-- Commit 349: style: Format code according to PEP8 on 2026-01-20 12:04:52 -->
 <!-- Commit 351: fix: Prevent potential race condition on 2026-01-20 11:55:14 -->
 <!-- Commit 352: feat: Add support for new model architecture on 2026-01-20 13:19:46 -->
+<!-- Commit 353: refactor: Improve code readability and structure on 2026-01-20 09:25:51 -->
