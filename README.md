@@ -1269,3 +1269,4 @@ This project is licensed under the MIT License.
 <!-- Commit 401: docs: Clarify installation instructions on 2026-01-16 09:31:53 -->
 <!-- Commit 402: test: Improve test coverage on 2026-01-20 09:50:18 -->
 <!-- Commit 403: perf: Reduce memory footprint on 2026-01-20 14:35:54 -->
+<!-- Commit 404: docs: Clarify installation instructions on 2026-01-20 09:53:39 -->
