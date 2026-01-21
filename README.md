@@ -910,3 +910,4 @@ This project is licensed under the MIT License.
 <!-- Commit 312: refactor: Extract common logic into helper function on 2026-01-14 11:29:53 -->
 <!-- Commit 313: refactor: Extract common logic into helper function on 2026-01-15 11:27:43 -->
 <!-- Commit 314: style: Adhere to linter rules on 2026-01-15 14:51:28 -->
+<!-- Commit 316: test: Improve test coverage on 2026-01-21 09:56:04 -->
