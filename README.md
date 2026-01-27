@@ -270,3 +270,4 @@ This project is licensed under the MIT License.
 <!-- Commit 302: refactor: Improve code readability and structure on 2026-01-20 14:11:40 -->
 <!-- Commit 303: chore: Upgrade Python version on 2026-01-26 10:46:39 -->
 <!-- Commit 304: docs: Update README with usage examples on 2026-01-27 10:26:30 -->
+<!-- Commit 306: fix: Correct off-by-one error in indexing on 2026-01-27 12:52:50 -->
