@@ -916,3 +916,4 @@ This project is licensed under the MIT License.
 <!-- Commit 319: feat: Add support for new model architecture on 2026-01-22 09:45:47 -->
 <!-- Commit 321: refactor: Simplify conditional statements on 2026-01-28 12:48:47 -->
 <!-- Commit 322: docs: Update README with usage examples on 2026-01-29 16:16:06 -->
+<!-- Commit 323: docs: Generate Sphinx documentation on 2026-01-29 17:32:40 -->
