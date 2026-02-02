@@ -275,3 +275,4 @@ This project is licensed under the MIT License.
 <!-- Commit 308: test: Add integration tests on 2026-01-29 17:17:23 -->
 <!-- Commit 309: docs: Update README with usage examples on 2026-01-29 11:00:10 -->
 <!-- Commit 311: docs: Update README with usage examples on 2026-02-02 09:34:49 -->
+<!-- Commit 312: chore: Configure CI/CD pipeline on 2026-02-02 09:43:02 -->
