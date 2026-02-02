@@ -274,3 +274,4 @@ This project is licensed under the MIT License.
 <!-- Commit 307: docs: Clarify installation instructions on 2026-01-28 09:31:41 -->
 <!-- Commit 308: test: Add integration tests on 2026-01-29 17:17:23 -->
 <!-- Commit 309: docs: Update README with usage examples on 2026-01-29 11:00:10 -->
+<!-- Commit 311: docs: Update README with usage examples on 2026-02-02 09:34:49 -->
