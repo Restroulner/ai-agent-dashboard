@@ -624,3 +624,4 @@ This project is licensed under the MIT License.
 <!-- Commit 384: fix: Handle edge cases in input validation on 2026-01-26 11:47:42 -->
 <!-- Commit 386: chore: Configure CI/CD pipeline on 2026-01-30 10:41:53 -->
 <!-- Commit 387: fix: Prevent potential race condition on 2026-02-03 13:08:42 -->
+<!-- Commit 388: refactor: Improve code readability and structure on 2026-02-03 14:42:06 -->
