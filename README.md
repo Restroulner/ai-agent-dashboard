@@ -1280,3 +1280,4 @@ This project is licensed under the MIT License.
 <!-- Commit 414: feat: Integrate new data source on 2026-02-09 15:45:14 -->
 <!-- Commit 416: chore: Configure CI/CD pipeline on 2026-02-09 16:12:59 -->
 <!-- Commit 417: chore: Update dependencies on 2026-02-12 11:24:08 -->
+<!-- Commit 418: refactor: Extract common logic into helper function on 2026-02-12 16:18:25 -->
