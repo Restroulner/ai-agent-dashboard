@@ -631,3 +631,4 @@ This project is licensed under the MIT License.
 <!-- Commit 393: chore: Update dependencies on 2026-02-09 09:18:48 -->
 <!-- Commit 394: perf: Parallelize computation on 2026-02-09 14:39:43 -->
 <!-- Commit 396: fix: Prevent potential race condition on 2026-02-11 11:33:23 -->
+<!-- Commit 397: fix: Correct off-by-one error in indexing on 2026-02-13 15:19:19 -->
