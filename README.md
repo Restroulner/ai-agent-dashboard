@@ -927,3 +927,4 @@ This project is licensed under the MIT License.
 <!-- Commit 333: style: Format code according to PEP8 on 2026-02-09 09:20:25 -->
 <!-- Commit 334: chore: Automate release process on 2026-02-09 15:16:10 -->
 <!-- Commit 336: perf: Optimize data loading performance on 2026-02-13 11:54:05 -->
+<!-- Commit 337: docs: Generate Sphinx documentation on 2026-02-13 09:17:11 -->
