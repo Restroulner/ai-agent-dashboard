@@ -634,3 +634,4 @@ This project is licensed under the MIT License.
 <!-- Commit 397: fix: Correct off-by-one error in indexing on 2026-02-13 15:19:19 -->
 <!-- Commit 398: docs: Add API documentation on 2026-02-13 10:11:42 -->
 <!-- Commit 399: chore: Automate release process on 2026-02-16 14:31:24 -->
+<!-- Commit 401: refactor: Improve code readability and structure on 2026-02-18 14:09:49 -->
