@@ -1604,3 +1604,4 @@ This project is licensed under the MIT License.
 <!-- Commit 369: refactor: Extract common logic into helper function on 2026-02-12 10:27:22 -->
 <!-- Commit 371: refactor: Extract common logic into helper function on 2026-02-12 17:11:15 -->
 <!-- Commit 372: chore: Automate release process on 2026-02-16 15:30:30 -->
+<!-- Commit 373: refactor: Extract common logic into helper function on 2026-02-23 14:39:02 -->
