@@ -930,3 +930,4 @@ This project is licensed under the MIT License.
 <!-- Commit 337: docs: Generate Sphinx documentation on 2026-02-13 09:17:11 -->
 <!-- Commit 338: style: Clean up whitespace on 2026-02-18 13:04:09 -->
 <!-- Commit 339: chore: Update dependencies on 2026-02-20 14:14:30 -->
+<!-- Commit 341: feat: Add support for new model architecture on 2026-02-25 13:38:01 -->
