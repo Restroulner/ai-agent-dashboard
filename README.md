@@ -933,3 +933,4 @@ This project is licensed under the MIT License.
 <!-- Commit 341: feat: Add support for new model architecture on 2026-02-25 13:38:01 -->
 <!-- Commit 342: fix: Prevent potential race condition on 2026-02-26 16:52:55 -->
 <!-- Commit 343: docs: Generate Sphinx documentation on 2026-02-26 17:21:03 -->
+<!-- Commit 344: style: Format code according to PEP8 on 2026-02-27 09:34:36 -->
