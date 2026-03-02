@@ -1606,3 +1606,4 @@ This project is licensed under the MIT License.
 <!-- Commit 372: chore: Automate release process on 2026-02-16 15:30:30 -->
 <!-- Commit 373: refactor: Extract common logic into helper function on 2026-02-23 14:39:02 -->
 <!-- Commit 374: refactor: Simplify conditional statements on 2026-02-26 16:59:34 -->
+<!-- Commit 376: fix: Handle edge cases in input validation on 2026-03-02 12:58:01 -->
