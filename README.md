@@ -1608,3 +1608,4 @@ This project is licensed under the MIT License.
 <!-- Commit 374: refactor: Simplify conditional statements on 2026-02-26 16:59:34 -->
 <!-- Commit 376: fix: Handle edge cases in input validation on 2026-03-02 12:58:01 -->
 <!-- Commit 377: perf: Reduce memory footprint on 2026-03-02 10:23:52 -->
+<!-- Commit 378: docs: Generate Sphinx documentation on 2026-03-04 16:07:59 -->
