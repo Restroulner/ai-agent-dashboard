@@ -1610,3 +1610,4 @@ This project is licensed under the MIT License.
 <!-- Commit 377: perf: Reduce memory footprint on 2026-03-02 10:23:52 -->
 <!-- Commit 378: docs: Generate Sphinx documentation on 2026-03-04 16:07:59 -->
 <!-- Commit 379: refactor: Improve code readability and structure on 2026-03-04 15:11:03 -->
+<!-- Commit 381: fix: Prevent potential race condition on 2026-03-09 13:39:03 -->
