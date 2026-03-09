@@ -300,3 +300,4 @@ This project is licensed under the MIT License.
 <!-- Commit 339: fix: Prevent potential race condition on 2026-03-05 15:22:56 -->
 <!-- Commit 341: feat: Integrate new data source on 2026-03-09 11:41:45 -->
 <!-- Commit 342: feat: Add support for new model architecture on 2026-03-09 16:32:19 -->
+<!-- Commit 343: refactor: Simplify conditional statements on 2026-03-09 09:51:55 -->
