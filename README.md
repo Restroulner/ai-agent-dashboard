@@ -302,3 +302,4 @@ This project is licensed under the MIT License.
 <!-- Commit 342: feat: Add support for new model architecture on 2026-03-09 16:32:19 -->
 <!-- Commit 343: refactor: Simplify conditional statements on 2026-03-09 09:51:55 -->
 <!-- Commit 344: docs: Clarify installation instructions on 2026-03-10 10:04:04 -->
+<!-- Commit 346: test: Fix broken tests on 2026-03-10 09:34:56 -->
