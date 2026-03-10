@@ -643,3 +643,4 @@ This project is licensed under the MIT License.
 <!-- Commit 408: fix: Correct off-by-one error in indexing on 2026-03-06 10:41:32 -->
 <!-- Commit 409: chore: Upgrade Python version on 2026-03-09 16:15:49 -->
 <!-- Commit 411: perf: Optimize data loading performance on 2026-03-10 16:01:53 -->
+<!-- Commit 412: docs: Add API documentation on 2026-03-10 16:10:44 -->
