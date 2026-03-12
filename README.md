@@ -307,3 +307,4 @@ This project is licensed under the MIT License.
 <!-- Commit 348: chore: Update dependencies on 2026-03-10 12:13:53 -->
 <!-- Commit 349: feat: Add new feature for data processing on 2026-03-11 14:11:35 -->
 <!-- Commit 351: feat: Integrate new data source on 2026-03-12 09:43:15 -->
+<!-- Commit 352: docs: Clarify installation instructions on 2026-03-12 09:15:12 -->
