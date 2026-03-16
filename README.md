@@ -940,3 +940,4 @@ This project is licensed under the MIT License.
 <!-- Commit 349: fix: Handle edge cases in input validation on 2026-03-06 16:37:07 -->
 <!-- Commit 351: fix: Prevent potential race condition on 2026-03-13 10:17:30 -->
 <!-- Commit 352: docs: Generate Sphinx documentation on 2026-03-16 13:41:48 -->
+<!-- Commit 353: feat: Add support for new model architecture on 2026-03-16 11:18:20 -->
