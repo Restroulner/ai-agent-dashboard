@@ -941,3 +941,4 @@ This project is licensed under the MIT License.
 <!-- Commit 351: fix: Prevent potential race condition on 2026-03-13 10:17:30 -->
 <!-- Commit 352: docs: Generate Sphinx documentation on 2026-03-16 13:41:48 -->
 <!-- Commit 353: feat: Add support for new model architecture on 2026-03-16 11:18:20 -->
+<!-- Commit 354: fix: Resolve bug in model training loop on 2026-03-18 14:26:47 -->
