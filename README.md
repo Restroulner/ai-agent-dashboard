@@ -1302,3 +1302,4 @@ This project is licensed under the MIT License.
 <!-- Commit 442: perf: Parallelize computation on 2026-03-18 09:50:18 -->
 <!-- Commit 443: feat: Integrate new data source on 2026-03-19 17:39:40 -->
 <!-- Commit 444: fix: Handle edge cases in input validation on 2026-03-20 09:53:27 -->
+<!-- Commit 446: docs: Clarify installation instructions on 2026-03-20 16:02:59 -->
