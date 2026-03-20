@@ -942,3 +942,4 @@ This project is licensed under the MIT License.
 <!-- Commit 352: docs: Generate Sphinx documentation on 2026-03-16 13:41:48 -->
 <!-- Commit 353: feat: Add support for new model architecture on 2026-03-16 11:18:20 -->
 <!-- Commit 354: fix: Resolve bug in model training loop on 2026-03-18 14:26:47 -->
+<!-- Commit 356: refactor: Decouple modules on 2026-03-20 16:58:28 -->
