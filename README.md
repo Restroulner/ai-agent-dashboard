@@ -651,3 +651,4 @@ This project is licensed under the MIT License.
 <!-- Commit 418: fix: Prevent potential race condition on 2026-03-16 15:07:42 -->
 <!-- Commit 419: fix: Handle edge cases in input validation on 2026-03-19 14:16:26 -->
 <!-- Commit 421: chore: Automate release process on 2026-03-24 17:40:30 -->
+<!-- Commit 422: feat: Add support for new model architecture on 2026-03-24 17:15:09 -->
