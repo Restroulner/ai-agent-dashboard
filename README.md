@@ -1305,3 +1305,4 @@ This project is licensed under the MIT License.
 <!-- Commit 446: docs: Clarify installation instructions on 2026-03-20 16:02:59 -->
 <!-- Commit 447: fix: Resolve bug in model training loop on 2026-03-23 13:24:38 -->
 <!-- Commit 448: refactor: Improve code readability and structure on 2026-03-23 09:26:48 -->
+<!-- Commit 449: docs: Clarify installation instructions on 2026-03-25 12:28:03 -->
